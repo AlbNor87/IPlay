@@ -1,12 +1,8 @@
 <?php get_header(); ?>
 
-<div class="video-background">
-    <div class="video-foreground">
-      <iframe src="https://www.youtube.com/embed/lZA-57h64kE?controls=0&showinfo=0&rel=0&start=10&autoplay=1&loop=1&mute=1&iv_load_policy=3&playlist=lZA-57h64kE" frameborder="0" style="filter: grayscale(100%)"></iframe>
-    </div>
-</div>
 
-<div class="overlay-white">
+
+
 
 <main role="main">
     <?php if (have_posts()): while (have_posts()): the_post(); ?>
@@ -24,7 +20,7 @@
     <?php endif; ?>
 </main>
 
-</div>
+
     <!-- <div id="vidtop-content">
     <div class="vid-info">
         <h1>YouTube Fullscreen Background Demo</h1>
