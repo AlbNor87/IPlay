@@ -6,6 +6,7 @@ body {
 }
 
 a {
+<<<<<<< Updated upstream
     color: #2bda28;  
 }
 
@@ -15,6 +16,16 @@ a:hover {
 
 a:visited {
     color: #2bda28;  
+=======
+    color: #ffffff;
+}
+
+a:hover {
+    color: #ffffff;
+}
+
+    color: #ffffff;
+>>>>>>> Stashed changes
 }
 
 .btn-outline-success {
@@ -115,10 +126,17 @@ pointer-events: none;
 .menu-wrapper {
     display: flex;
     float: right;
+<<<<<<< Updated upstream
     margin: 20px; 
 }
 
 @media only screen 
+=======
+    margin: 20px;
+}
+
+@media only screen
+>>>>>>> Stashed changes
 and (max-width : 667px)
 {
     .mobile {
