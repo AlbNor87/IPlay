@@ -29,4 +29,17 @@
 
     </header>
 
+
     <!-- MOBILE -->
+
+    <header class="mobile">
+
+    <nav class="navbar">
+        <div class="menu-wrapper">
+                <ul class="navbar-nav">
+                <?php wp_nav_menu(['theme_location' => 'primary-menu']); ?>
+                </ul><!-- /navbar -->
+        </div><!-- menu-wrapper -->
+    </nav>
+
+    </header>

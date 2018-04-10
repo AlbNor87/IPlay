@@ -8,7 +8,7 @@ require template_path('includes/plugins/plate.php');
 // Set theme defaults.
 add_action('after_setup_theme', function () {
     // Show the admin bar.
-    show_admin_bar(true);
+    show_admin_bar(false);
 
     // Add post thumbnails support.
     add_theme_support('post-thumbnails');

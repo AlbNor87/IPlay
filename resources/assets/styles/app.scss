@@ -1,5 +1,6 @@
 /* WordPlate */
 @import 'node_modules/bootstrap/scss/bootstrap-grid';
+@import 'desktop';
 
 body {
     margin: 0;
@@ -83,6 +84,7 @@ pointer-events: none;
 .desktop {
     display: block;
 }
+
 .navbar {
     background-color: dimgrey;
     width: 100%;
