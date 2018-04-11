@@ -1,5 +1,6 @@
     <!-- MOBILE START-->
-    <div class="container mobile">
+    <div class="mobile">
+
 
     </div>
     <!-- MOBILE END -->

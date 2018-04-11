@@ -1,5 +1,5 @@
     <!-- DESKTOP START-->
-    <div class="desktop-container desktop">
+    <div class="desktop">
 
         <nav class="navbar">
             <div class="menu-wrapper">
