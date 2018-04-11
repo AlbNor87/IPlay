@@ -18,6 +18,7 @@ a:visited {
     color: #ffffff;
 }
 
+<<<<<<< Updated upstream
 .btn-outline-success {
     color: $IplayGreen;
     background-color: transparent;
@@ -25,15 +26,17 @@ a:visited {
     border-color: #2bda28;
 }
 
+=======
+>>>>>>> Stashed changes
 .navbar {
-    background-color: dimgrey;
+    background-color: #4e4e4e;
     width: 100%;
     height: 100px;
 }
 
 .navbar-nav ul li ul li{
     display: none;
-    background-color: dimgrey;
+    background-color: #4e4e4e;
 }
 
 .navbar-nav ul li:hover ul li {
@@ -58,4 +61,30 @@ a:visited {
     display: flex;
     float: right;
     margin: 20px;
+}
+
+.athletebox {
+  background-image: "athlete.jpg";
+  width: 480px;
+  height: 1080px;
+  background-color: #3FBF55;
+  float: left;
+  width: 33.33%;
+
+}
+
+.fanbox {
+  width: 480px;
+  height: 995px;
+  background-color: #E50279;
+  float: left;
+  width: 33.33%;
+}
+
+.otherbox {
+  width: 480px;
+  height: 900px;
+  background-color: #1E92FE;
+  float: left;
+  width: 33.33%;
 }

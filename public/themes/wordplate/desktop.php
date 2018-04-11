@@ -9,7 +9,12 @@
             </div><!-- menu-wrapper -->
         </nav>
 
-        <?php require template_path('/main.php');?>    
+        <?php require template_path('/main.php');?>
 
     </div>
     <!-- DESKTOP END -->
+
+
+<div class="athletebox"></div>
+<div class="fanbox"></div>
+<div class="otherbox"></div>
