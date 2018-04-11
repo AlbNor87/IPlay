@@ -1,1 +1,13 @@
 $colorIplayGreen: rgb(0, 161, 0);
+
+@mixin bp($point) {
+    @if $point == mobile {
+        @media (max-width: 768px) { @content; }
+    }
+    @else if $point == medium {
+        @media (max-width: 1250px) { @content; }
+    }
+    @else if $point == large {
+        @media (min-width: 1250px)  { @content; }
+    }
+}
