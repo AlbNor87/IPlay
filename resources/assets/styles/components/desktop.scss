@@ -1,7 +1,7 @@
 .desktop {
     display: block;
 
-    @include bp(small) {
+    @include bp(mobile) {
         display: none;
       }
 }
@@ -19,7 +19,7 @@ a:visited {
 }
 
 .btn-outline-success {
-    color: $colorIplayGreen;
+    color: $IplayGreen;
     background-color: transparent;
     background-image: none;
     border-color: #2bda28;

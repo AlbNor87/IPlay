@@ -1,4 +1,7 @@
-$colorIplayGreen: rgb(0, 161, 0);
+$IplayGrey: #4e4e4e;
+$IplayGreen: #3FBF55;
+$IplayPink: #E50279;
+$IplayBlue: #1E92FE;
 
 @mixin bp($point) {
     @if $point == mobile {
