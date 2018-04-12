@@ -11,56 +11,72 @@
 
         <?php require template_path('/main.php');?>
 
+        <div class="container">
+          <div class="row">
+            <div class="col-sm">
+              One of three columns
+            </div>
+            <div class="col-sm">
+              One of three columns
+            </div>
+            <div class="col-sm">
+              One of three columns
+            </div>
+          </div>
+        </div>
+
+
+
+        <div class="otherbox">
+            <h2>HELLOO</h2>
+            <!-- <img src="themes/wordplate/assets/images/other.jpg" alt="other" style="opacity: .2; height: 100%; width: 100%; object-fit: cover;"> -->
+        </div>
+
+        <div class="fanbox">
+            <img src="themes/wordplate/assets/images/fans.jpg" alt="" style="opacity: .2; height: 100%; width: 100%; object-fit: cover;">
+        </div>
+
+        <div class="athletebox">
+            <img src="themes/wordplate/assets/images/athlete.jpg" alt="" style="opacity: .2; height: 100%; width: 100%; object-fit: cover;">
+        </div>
+
+
+        <div class="othertext">
+        <h2>I'm _____.</h2>
+        </div>
+
+        <div class="fantext">
+        <h2>I'm a fan.</h2>
+        </div>
+
+        <div class="athletetext">
+        <h2>I'm an athlete.</h2>
+        </div>
+
+
+
+        <div class="superusers">Superusers</div>
+
+        <div class="testimonial1">
+        <h2>Nathalie Hagman</h2>
+        <p>Nykøbing Falster HK</p>
+        <br>
+        <h3>"Iplay är den plattform som vi tidigare har saknat. Skapad för oss atleter med våra unika behov."</h3>
+        </div>
+
+        <div class="testimonial2">
+        <h2>Victor Tomás</h2>
+        <p>FC BARCELONA</p>
+        <br>
+        <h3>"Iplay is a unique tool that will really make a difference for us athletes."</h3>
+        </div>
+
+        <div class="testimonial3">
+        <h2>Niclas Ekberg</h2>
+        <p>THW Kiel</p>
+        <br>
+        <h3>"På Iplay har jag full kontroll över min kommunikation och kan bygga mitt varumärke ännu starkare"</h3>
+        </div>
+
     </div>
     <!-- DESKTOP END -->
-
-    <div class="otherbox">
-        <h2>HELLOO</h2>
-        <!-- <img src="themes/wordplate/assets/images/other.jpg" alt="other" style="opacity: .2; height: 100%; width: 100%; object-fit: cover;"> -->
-    </div>
-
-    <div class="fanbox">
-        <img src="themes/wordplate/assets/images/fans.jpg" alt="" style="opacity: .2; height: 100%; width: 100%; object-fit: cover;">
-    </div>
-
-    <div class="athletebox">
-        <img src="themes/wordplate/assets/images/athlete.jpg" alt="" style="opacity: .2; height: 100%; width: 100%; object-fit: cover;">
-    </div>
-
-
-<div class="othertext">
-    <h2>I'm _____.</h2>
-</div>
-
-<div class="fantext">
-    <h2>I'm a fan.</h2>
-</div>
-
-<div class="athletetext">
-    <h2>I'm an athlete.</h2>
-</div>
-
-
-
-<div class="superusers">Superusers</div>
-
-<div class="testimonial1">
-    <h2>Nathalie Hagman</h2>
-    <p>Nykøbing Falster HK</p>
-    <br>
-    <h3>"Iplay är den plattform som vi tidigare har saknat. Skapad för oss atleter med våra unika behov."</h3>
-</div>
-
-<div class="testimonial2">
-    <h2>Victor Tomás</h2>
-    <p>FC BARCELONA</p>
-    <br>
-    <h3>"Iplay is a unique tool that will really make a difference for us athletes."</h3>
-</div>
-
-<div class="testimonial3">
-    <h2>Niclas Ekberg</h2>
-    <p>THW Kiel</p>
-    <br>
-    <h3>"På Iplay har jag full kontroll över min kommunikation och kan bygga mitt varumärke ännu starkare"</h3>
-</div>
