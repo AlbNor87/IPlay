@@ -8,20 +8,23 @@
 
 a {
     color: #ffffff;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
 }
 
 a:hover {
     color: #ffffff;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
 }
 
 a:visited {
     color: #ffffff;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
 }
 
 .navbar {
     background-color: $IplayGrey;
     width: 100%;
-    height: 100px;
+    height: 80px;
 }
 
 .navbar-nav ul li ul li{
@@ -53,13 +56,13 @@ a:visited {
     margin: 20px;
 }
 
-.athletebox {
+.otherbox {
   width: 480px;
-  height: 1080px;
-  background-color: #3FBF55;
+  height: 900px;
+  background-color: #1E92FE;
   float: left;
   width: 33.33%;
-
+  clip-path: polygon(0 40%, 100% 30%, 100% 100%, 0 100%);
 }
 
 .fanbox {
@@ -68,12 +71,83 @@ a:visited {
   background-color: #E50279;
   float: left;
   width: 33.33%;
+  clip-path: polygon(0 27.1%, 100% 17.1%, 100% 90.5%, 0 90.5%);
 }
 
-.otherbox {
+.athletebox {
   width: 480px;
-  height: 900px;
-  background-color: #1E92FE;
+  height: 1080px;
+  background-color: #3FBF55;
   float: left;
   width: 33.33%;
+  clip-path: polygon(0 15.7%, 100% 5.7%, 100% 83.35%, 0 83.35%);
+
+}
+
+.othertext {
+    color: black;
+    text-align: left;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+
+}
+
+.fantext {
+    color: black;
+    text-align: center;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+.athletetext {
+    color: black;
+    text-align: right;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+.superusers {
+    height: 100px;
+    width: 450px;
+    background-color: #3FBF55;
+    color: white;
+    margin: auto;
+    text-align: center;
+    color: white;
+    font-size: 60px;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    margin-bottom: 40px;
+}
+
+.testimonial1 {
+  height: 200px;
+  width: 1100px;
+  float: right;
+  background-color: #3FBF55;
+  text-align: center;
+  color: white;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  margin-bottom: 70px;
+  clip-path: polygon(10% 0, 100% 0%, 100% 100%, 0% 100%);
+}
+
+.testimonial2 {
+  height: 200px;
+  width: 1100px;
+  float: left;
+  background-color: #3FBF55;
+  text-align: center;
+  color: white;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  margin-bottom: 70px;
+  clip-path: polygon(0 0, 90% 0%, 100% 100%, 0% 100%);
+}
+
+.testimonial3 {
+  height: 200px;
+  width: 1100px;
+  float: right;
+  background-color: #3FBF55;
+  text-align: center;
+  color: white;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  margin-bottom: 70px;
+  clip-path: polygon(10% 0, 100% 0%, 100% 100%, 0% 100%);
 }
