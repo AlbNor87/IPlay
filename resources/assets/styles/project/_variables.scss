@@ -4,7 +4,13 @@ $IplayPink: #E50279;
 $IplayBlue: #1E92FE;
 
 @mixin bp($point) {
-    @if $point == mobile {
-        @media (max-width: 768px) { @content; }
+    @if $point == small {
+      @media (max-width: 768px) { @content; }
     }
-}
+    @else if $point == medium {
+      @media (max-width: 1250px) { @content; }
+    }
+    @else if $point == large {
+      @media (min-width: 1250px)  { @content; }
+    }
+  }

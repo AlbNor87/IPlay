@@ -1,7 +1,7 @@
 .mobile {
     display: none;
     
-    @include bp(mobile) {
+    @include bp(small) {
         display: block;
       }
 }
