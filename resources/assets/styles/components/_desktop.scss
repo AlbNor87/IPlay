@@ -1,7 +1,7 @@
 .desktop {
     display: block;
 
-    @include bp(mobile) {
+    @include bp(small) {
         display: none;
       }
 }
