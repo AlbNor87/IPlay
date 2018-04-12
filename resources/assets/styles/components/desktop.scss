@@ -57,11 +57,16 @@ a:visited {
 }
 
 .otherbox {
-  width: 480px;
+  background-image: url("/../images/other.jpg");
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: .2;
+  // width: 480px;
   height: 900px;
   background-color: #1E92FE;
   float: left;
-  width: 33.33%;
+  // width: 33.33%;
   clip-path: polygon(0 40%, 100% 30%, 100% 100%, 0 100%);
 }
 

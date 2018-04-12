@@ -16,7 +16,7 @@
 
     <div class="otherbox">
         <h2>HELLOO</h2>
-        <img src="themes/wordplate/assets/images/other.jpg" alt="other" style="opacity: .2; height: 100%; width: 100%; object-fit: cover;">
+        <!-- <img src="themes/wordplate/assets/images/other.jpg" alt="other" style="opacity: .2; height: 100%; width: 100%; object-fit: cover;"> -->
     </div>
 
     <div class="fanbox">
