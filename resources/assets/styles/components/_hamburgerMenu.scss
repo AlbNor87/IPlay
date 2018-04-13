@@ -111,8 +111,10 @@
 #menu li
 {
   color: black;
+  font-family: "Helvetica Neue";
+  font-weight: 500;
   padding: 10px 0;
-  font-size: 22px;
+  font-size: 21px;
 }
 
 #menuToggle input:checked ~ ul
