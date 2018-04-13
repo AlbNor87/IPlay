@@ -13,8 +13,8 @@
             <li class="accordion">Features</li>
             <div class="panel">
             <ul>
-                <li>Athelete</li>
-                <li>Fan</li>
+                <li>Atheletes</li>
+                <li>Fans</li>
                 <li>Other</li>
                 <li>Feature Road Map</li>
             </ul>

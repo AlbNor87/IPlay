@@ -112,10 +112,18 @@
 {
   color: black;
   font-family: "Helvetica Neue";
+  list-style-type: none;
   font-weight: 500;
   padding: 10px 0;
   font-size: 21px;
+
+  &ul li{
+    font-size: 6px;
+  }
+
 }
+
+
 
 #menuToggle input:checked ~ ul
 {
