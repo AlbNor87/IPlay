@@ -9,13 +9,12 @@
             </div><!-- menu-wrapper -->
         </nav>
 
-        <?php require template_path('/main.php');?>
 
 
         <div class="title">
-            UNITING
-            THE WORLD
-            OF SPORT
+            <p>UNITING</p>
+            <p>THE WORLD</p>
+            <p>OF SPORT</p>
         </div>
 
 
@@ -24,6 +23,7 @@
         <img src="themes/wordplate/images/appstoreblack.svg" alt="appstore" class="app2">
         </div>
 
+        <img src="themes/wordplate/images/mockup.png" alt="" class="mockup">
 
         <div class="boxes">
             <div class="other">
