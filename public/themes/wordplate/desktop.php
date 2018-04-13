@@ -11,6 +11,7 @@
 
         <?php require template_path('/main.php');?>
 
+
         <div class="title">
             UNITING
             THE WORLD
@@ -19,8 +20,8 @@
 
 
         <div class="app">
-        <img src="themes/wordplate/images/appstoreblack.svg" alt="appstore">
-        <img src="themes/wordplate/images/appstoreblack.svg" alt="appstore">
+        <img src="themes/wordplate/images/appstoreblack.svg" alt="appstore" class="app1">
+        <img src="themes/wordplate/images/appstoreblack.svg" alt="appstore" class="app2">
         </div>
 
 
@@ -87,11 +88,11 @@
         <h3>"På Iplay har jag full kontroll över min kommunikation och kan bygga mitt varumärke ännu starkare"</h3>
         </div>
 
-        <div class="testimonialimage1">
-            <img src="themes/wordplate/images/nathaliehagman.png" alt="">
+        <div class="testimonialimages">
+            <img src="themes/wordplate/images/nathaliehagman.png" alt="" class="image1">
+            <img src="themes/wordplate/images/victorthomas.png" alt="" class="image2">
+            <img src="themes/wordplate/images/nicklasekberg.png" alt="" class="image3">
         </div>
-        <div class="testimonialimage2"></div>
-        <div class="testimonialimage3"></div>
 
 
     </div>

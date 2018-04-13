@@ -46,7 +46,6 @@
 }
 
 .title {
-  font-family: "Helvetica Neue";
   font-size: 56px;
   font-weight: bold;
   // line-height: 69px;
@@ -97,20 +96,20 @@
 .othertext {
     color: black;
     text-align: left;
-    font-family: "Helvetica Neue";
+
 
 }
 
 .fantext {
     color: black;
     text-align: center;
-    font-family: "Helvetica Neue";
+
 }
 
 .athletetext {
     color: black;
     text-align: right;
-    font-family: "Helvetica Neue";
+
 }
 
 
@@ -166,7 +165,6 @@
     color: white;
     font-size: 60px;
     font-weight: bold;
-    font-family: "Helvetica Neue";
     margin-bottom: 40px;
 }
 
@@ -177,7 +175,6 @@
   background-color: #3FBF55;
   text-align: center;
   color: white;
-  font-family: "Helvetica Neue";
   margin-bottom: 70px;
   clip-path: polygon(10% 0, 100% 0%, 100% 100%, 0% 100%);
 }
@@ -189,7 +186,6 @@
   background-color: #3FBF55;
   text-align: center;
   color: white;
-  font-family: "Helvetica Neue";
   margin-bottom: 70px;
   clip-path: polygon(0 0, 90% 0%, 100% 100%, 0% 100%);
 }
@@ -201,7 +197,6 @@
   background-color: #3FBF55;
   text-align: center;
   color: white;
-  font-family: "Helvetica Neue";
   margin-bottom: 70px;
   clip-path: polygon(10% 0, 100% 0%, 100% 100%, 0% 100%);
 }
@@ -213,6 +208,6 @@
 //   border-radius: 100%;
 // }
 
-div.testimonialimage1 {
+.app1 {
   width: 90px;
 }
