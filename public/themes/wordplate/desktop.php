@@ -11,25 +11,35 @@
 
         <?php require template_path('/main.php');?>
 
-        <div class="container">
-          <div class="row">
-            <div class="col-sm">
-              One of three columns
-            </div>
-            <div class="col-sm">
-              One of three columns
-            </div>
-            <div class="col-sm">
-              One of three columns
-            </div>
-          </div>
+        <div class="title">
+            UNITING
+            THE WORLD
+            OF SPORT
         </div>
 
 
+        <div class="app">
+        <img src="themes/wordplate/images/appstoreblack.svg" alt="appstore">
+        <img src="themes/wordplate/images/appstoreblack.svg" alt="appstore">
+        </div>
 
-        <div class="otherbox">
+
+        <div class="boxes">
+            <div class="other">
+              <h2>I'm _____</h2>
+            </div>
+            <div class="fan">
+              <h2>I'm a fan</h2>
+            </div>
+            <div class="athlete">
+              <h2>I'm an athlete</h2>
+            </div>
+        </div>
+
+
+        <!-- <div class="otherbox">
             <h2>HELLOO</h2>
-            <!-- <img src="themes/wordplate/assets/images/other.jpg" alt="other" style="opacity: .2; height: 100%; width: 100%; object-fit: cover;"> -->
+            <img src="themes/wordplate/assets/images/other.jpg" alt="other" style="opacity: .2; height: 100%; width: 100%; object-fit: cover;">
         </div>
 
         <div class="fanbox">
@@ -38,10 +48,10 @@
 
         <div class="athletebox">
             <img src="themes/wordplate/assets/images/athlete.jpg" alt="" style="opacity: .2; height: 100%; width: 100%; object-fit: cover;">
-        </div>
+        </div> -->
 
 
-        <div class="othertext">
+        <!-- <div class="othertext">
         <h2>I'm _____.</h2>
         </div>
 
@@ -51,8 +61,7 @@
 
         <div class="athletetext">
         <h2>I'm an athlete.</h2>
-        </div>
-
+        </div> -->
 
 
         <div class="superusers">Superusers</div>
@@ -77,6 +86,13 @@
         <br>
         <h3>"På Iplay har jag full kontroll över min kommunikation och kan bygga mitt varumärke ännu starkare"</h3>
         </div>
+
+        <div class="testimonialimage1">
+            <img src="themes/wordplate/images/nathaliehagman.png" alt="">
+        </div>
+        <div class="testimonialimage2"></div>
+        <div class="testimonialimage3"></div>
+
 
     </div>
     <!-- DESKTOP END -->
