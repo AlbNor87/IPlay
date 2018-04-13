@@ -3,7 +3,7 @@
 
         <div class="mob-nav">
 
-            <img src="/themes/wordplate/images/iplaylogo.svg" alt="logo" class="mob-logo">
+            <img src="/themes/wordplate/images/iplaylogo_white.svg" alt="logo" class="mob-logo">
 
             <div class="mobile-menu">
 
