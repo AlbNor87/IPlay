@@ -1,7 +1,7 @@
 .mobile-menu {
   position: absolute;
-  top: 15px;
-  right: 15px;
+  top: 17px;
+  right: 17px;
 }
 
 #menuToggle
@@ -34,10 +34,9 @@
   position: relative;
   display: block;
   width: 33px;
-  height: 4px;
-  margin-bottom: 5px;
-  background: #cdcdcd;
-  border-radius: 3px;
+  height: 3px;
+  margin-bottom: 6px;
+  background: #ffffff;
   z-index: 2;
   transform-origin: 4px 0px;
   transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
@@ -90,14 +89,13 @@
 #menu
 {
   position: absolute;
-  top: -15px;
-  right: -15px;
+  top: -17px;
+  right: -17px;
   width: 232px;
   height: 667px;
   margin: 0 0 100px -100px;
-  padding: 50px;
-  padding-top: 125px;
-  border-radius: 5px;
+  padding: 22px;
+  padding-top: 10px;
   border: 1px white solid;
   box-shadow: 5px 10px 18px rgba(0, 0, 0, 0.5);
   background: linear-gradient(rgb(255, 255, 255),rgb(235, 235, 235));

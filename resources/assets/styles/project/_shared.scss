@@ -1,5 +1,14 @@
+:root { 
+    font-family: HelveticaNeue;
+}
+
 body {
     margin: 0;
+}
+
+@font-face {
+    font-family: HelveticaNeue;
+    src: url(/../HelveticaNeue.OTF);
 }
 
 .container {
