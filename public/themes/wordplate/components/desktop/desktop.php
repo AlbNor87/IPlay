@@ -17,13 +17,18 @@
             <p>OF SPORT</p>
         </div>
 
-
         <div class="app">
         <img src="themes/wordplate/images/appstoreblack.svg" alt="appstore" class="app1">
         <img src="themes/wordplate/images/appstoreblack.svg" alt="appstore" class="app2">
         </div>
 
         <img src="themes/wordplate/images/mockup.png" alt="" class="mockup">
+
+        <div class="titletext">
+            <p>Iplay is the tool for athletes to</p>
+            <p>grow their personal brand and for</p>
+            <p>fans following their journey.</p>
+        </div>
 
         <div class="boxes">
             <div class="other">
