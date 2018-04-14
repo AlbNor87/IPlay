@@ -16,8 +16,8 @@
 
         <div class="titletext">
             <p>Iplay is the tool for athletes to</p>
-            <p>grow their personal brand and for</p>
-            <p>fans following their journey.</p>
+            <p>expand their personal brand and for</p>
+            <p>fans to follow their journey.</p>
         </div>
 
         <div class="boxes">
@@ -63,24 +63,24 @@
         <div class="superusers">Superusers</div>
 
         <div class="testimonial1">
-        <h2>Nathalie Hagman</h2>
-        <p>Nykøbing Falster HK</p>
+        <h2 class="athletename">Nathalie Hagman</h2>
+        <p class="team">Nykøbing Falster HK</p>
         <br>
-        <h3>"Iplay är den plattform som vi tidigare har saknat. Skapad för oss atleter med våra unika behov."</h3>
+        <p class="quote">"Iplay är den plattform som vi tidigare har saknat. Skapad för oss atleter med våra unika behov."</p>
         </div>
 
         <div class="testimonial2">
-        <h2>Victor Tomás</h2>
-        <p>FC BARCELONA</p>
+        <h2 class="athletename">Victor Tomás</h2>
+        <p class="team">FC BARCELONA</p>
         <br>
-        <h3>"Iplay is a unique tool that will really make a difference for us athletes."</h3>
+        <p class="quote">"Iplay is a unique tool that will really make a difference for us athletes."</p>
         </div>
 
         <div class="testimonial3">
-        <h2>Niclas Ekberg</h2>
-        <p>THW Kiel</p>
+        <h2 class="athletename">Niclas Ekberg</h2>
+        <p class="team">THW Kiel</p>
         <br>
-        <h3>"På Iplay har jag full kontroll över min kommunikation och kan bygga mitt varumärke ännu starkare"</h3>
+        <p class="quote">"På Iplay har jag full kontroll över min kommunikation och kan bygga mitt varumärke ännu starkare"</p>
         </div>
 
         <div class="testimonialimages">

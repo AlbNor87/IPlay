@@ -9,7 +9,7 @@
 .navbar {
     background-color: $IplayGrey;
     width: 100%;
-    height: 100px;
+    height: 130px;
 }
 
 .navbar-nav ul li ul li{
@@ -25,10 +25,14 @@
     display: flex;
     justify-content: space-between;
     list-style-type: none;
+    font-size: 37px;
+    padding: 10px;
+    margin-right: 40px;
+
 }
 
 .navbar-nav ul li {
-    width: 120px;
+    width: 190px;
 }
 
 .navbar-nav ul li ul {
@@ -43,28 +47,28 @@
 }
 
 .title {
-  font-size: 56px;
+  font-size: 80px;
   font-weight: bold;
   // line-height: 69px;
   color: $IplayGreen;
   height: 198px;
   width: 413px;
-  line-height: 10px;
+  line-height: 12px;
   margin-top: 17vh;
-  margin-left: 14vh;
+  margin-left: 22vh;
 }
 
 .titletext {
   width: 400px;
-  font-size: 36px;
+  font-size: 48px;
   font-weight: 300;
   line-height: 10px;
-  margin-left: 14vh;
-  margin-top: -36vh;
+  margin-left: 22vh;
+  margin-top: -27.5vh;
 }
 
 p {
-  width: 600px;
+  width: 900px;
 
 }
 // .otherbox {
@@ -99,28 +103,29 @@ p {
 //   clip-path: polygon(0 15.7%, 100% 5.7%, 100% 83.35%, 0 83.35%);
 //
 // }
+
 .app {
-  width: 500px;
+  width: 700px;
   height: 100px;
   margin-top: 20vh;
-  margin-left: 14vh;
+  margin-left: 22vh;
 }
 
 .app1 {
-  width: 210px;
-  margin-right: 50px;
+  width: 280px;
+  margin-right: 80px;
+  margin-top: 8vh;
 }
 
 .app2 {
-  width: 210px;
+  width: 280px;
 
 }
 
 .mockup {
-  width: 450px;
-  height: 864px;
+  width: 600px;
   float: right;
-  margin-right: 15vh;
+  margin-right: 17vh;
   margin-top: -64vh;
 }
 
