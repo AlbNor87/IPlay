@@ -14,10 +14,12 @@
 
   <nav class="navbar">
 
+<img src="/themes/wordplate/images/iplaylogo_white.svg" alt="logo" class="desktoplogo">
+
       <div class="menu-wrapper">
 
         <ul class="navbar-nav">
-          
+
           <?php wp_nav_menu(['theme_location' => 'primary-menu']); ?>
 
         </ul><!-- /navbar -->
