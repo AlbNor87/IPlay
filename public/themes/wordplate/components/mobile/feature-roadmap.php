@@ -3,7 +3,7 @@
 
     <div class="mob-container">
     
-        <H1>Welcome to the MOBILE press page!</H1>
+        <H1>Welcome to the MOBILE Feature Roadmap page!</H1>
 
     </div><!-- mob-container -->
 

@@ -3,7 +3,7 @@
 
     <div class="mob-container">
     
-        <H1>Welcome to the MOBILE press page!</H1>
+        <img src="/themes/wordplate/images/mockup.png" alt="logo" class="mob-mockup">
 
     </div><!-- mob-container -->
 

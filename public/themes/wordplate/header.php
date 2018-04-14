@@ -7,6 +7,28 @@
   <?php wp_head(); ?>
 </head>
 <body <?php body_class(); ?>>
+
+<!-- DESKTOP NAVBAR START-->
+<div class="desktop">
+
+  <nav class="navbar">
+
+      <div class="menu-wrapper">
+
+        <ul class="navbar-nav">
+          
+          <?php wp_nav_menu(['theme_location' => 'primary-menu']); ?>
+
+        </ul><!-- /navbar -->
+
+      </div><!-- menu-wrapper -->
+
+  </nav>
+
+</div><!-- desktop -->
+<!-- DESKTOP NAVBAR END -->
+
+
 <!-- MOBILE NAVBAR START-->
 <div class="mobile">
 
