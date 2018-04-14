@@ -7,14 +7,14 @@
 }
 
 .desktoplogo {
-  width: 200px;
+  width: 180px;
   margin-left: 22vh;
   margin-top: 20px;
 }
 .navbar {
     background-color: $IplayGrey;
     width: 100%;
-    height: 130px;
+    height: 110px;
 }
 
 .navbar-nav ul li ul li{
@@ -30,14 +30,14 @@
     display: flex;
     justify-content: space-between;
     list-style-type: none;
-    font-size: 3vh;
+    font-size: 24px;
     padding: 10px;
     margin-right: 40px;
 
 }
 
 .navbar-nav ul li {
-    width: 15vh;
+    width: 135px;
 }
 
 .navbar-nav ul li ul {
@@ -48,7 +48,7 @@
 .menu-wrapper {
     display: flex;
     float: right;
-    margin: 20px;
+    // margin: 20px;
 }
 
 .title {
@@ -56,20 +56,18 @@
   font-weight: bold;
   // line-height: 69px;
   color: $IplayGreen;
-  height: 198px;
-  width: 413px;
-  line-height: 12px;
-  margin-top: 17vh;
+  line-height: 5px;
+  margin-top: 18vh;
   margin-left: 22vh;
 }
 
 .titletext {
   width: 400px;
-  font-size: calc(1.5vh + 1.6vw);
+  font-size: calc(1.4vh + 1.4vw);
   font-weight: 300;
   line-height: 10px;
   margin-left: 22vh;
-  margin-top: 6vh;
+  margin-top: -2vh;
 }
 
 p {
@@ -112,23 +110,23 @@ p {
 .app {
   width: 700px;
   margin-left: 22vh;
+  margin-top: 70px;
 }
 
 .app1 {
-  width: 26vh;
+  width: 24vh;
   margin-right: 80px;
-  margin-top: 8vh;
 }
 
 .app2 {
-  width: 26vh;
+  width: 24vh;
 
 }
 
 .mockup {
   position: absolute;
-  top: 23vh;
-  right: 8vw;
+  top: 17vh;
+  right: 12vw;
   width: 30vw;
   float: right;
 }
@@ -174,49 +172,49 @@ p {
 }
 
 .superusers {
-    height: 100px;
-    width: 450px;
+    height: 16vh;
+    width: 75vh;
     background-color: #3FBF55;
     color: white;
     margin: auto;
     text-align: center;
     color: white;
-    font-size: 60px;
+    font-size: 9vh;
     font-weight: bold;
-    margin-bottom: 40px;
-    margin-top: 60px;
+    margin-bottom: 65px;
+    margin-top: 100px;
 }
 
 .testimonial1 {
-  height: 200px;
-  width: 1100px;
+  height: 300px;
+  width: 70vw;
   float: right;
   background-color: #3FBF55;
   text-align: center;
   color: white;
-  margin-bottom: 70px;
+  margin-bottom: 120px;
   clip-path: polygon(10% 0, 100% 0%, 100% 100%, 0% 100%);
 }
 
 .testimonial2 {
-  height: 200px;
-  width: 1100px;
+  height: 300px;
+  width: 80vw;
   float: left;
   background-color: #3FBF55;
   text-align: center;
   color: white;
-  margin-bottom: 70px;
+  margin-bottom: 120px;
   clip-path: polygon(0 0, 90% 0%, 100% 100%, 0% 100%);
 }
 
 .testimonial3 {
-  height: 200px;
-  width: 1100px;
+  height: 300px;
+  width: 80vw;
   float: right;
   background-color: #3FBF55;
   text-align: center;
   color: white;
-  margin-bottom: 70px;
+  margin-bottom: 120px;
   clip-path: polygon(10% 0, 100% 0%, 100% 100%, 0% 100%);
 }
 
