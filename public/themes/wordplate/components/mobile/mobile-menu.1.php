@@ -9,7 +9,7 @@
         <span></span>
 
         <ul class="mobile-menu">
-            <a href="index.php"><li>Home</li></a>
+            <a href=""><li>Home</li></a>
             <li class="accordion">Features</li>
             <div class="panel">
             <ul>
@@ -20,8 +20,8 @@
             </ul>
             </div>
             <a href="press.php"><li>Press</li></a>
-            <a href="contact.php"><li>Contact</li></a>
-            <a href="about.php"><li>About Us</li></a>
+            <a href=""><li>Contact</li></a>
+            <a href=""><li>About Us</li></a>
         </ul>
 
     </div><!-- menuToggle -->
