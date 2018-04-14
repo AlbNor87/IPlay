@@ -30,14 +30,14 @@
     display: flex;
     justify-content: space-between;
     list-style-type: none;
-    font-size: 37px;
+    font-size: 3vh;
     padding: 10px;
     margin-right: 40px;
 
 }
 
 .navbar-nav ul li {
-    width: 190px;
+    width: 15vh;
 }
 
 .navbar-nav ul li ul {
@@ -65,11 +65,11 @@
 
 .titletext {
   width: 400px;
-  font-size: 48px;
+  font-size: calc(1.5vh + 1.6vw);
   font-weight: 300;
   line-height: 10px;
   margin-left: 22vh;
-  margin-top: -27.5vh;
+  margin-top: 6vh;
 }
 
 p {
@@ -111,19 +111,17 @@ p {
 
 .app {
   width: 700px;
-  height: 100px;
-  margin-top: 20vh;
   margin-left: 22vh;
 }
 
 .app1 {
-  width: 280px;
+  width: 26vh;
   margin-right: 80px;
   margin-top: 8vh;
 }
 
 .app2 {
-  width: 280px;
+  width: 26vh;
 
 }
 
