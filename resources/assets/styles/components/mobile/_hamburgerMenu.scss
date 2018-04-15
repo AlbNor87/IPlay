@@ -158,3 +158,89 @@
   }
 }
 
+//White hamburger style
+
+.menuToggleWhite
+{
+  display: block;
+  position: relative;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+.menuToggleWhite input
+{
+  position: absolute;
+  top: -10px;
+  right: -3px;
+  display: block;
+  width: 40px;
+  height: 35px;
+  cursor: pointer;
+  opacity: 0; /* hide this */
+  -webkit-touch-callout: none;
+  z-index: 3;
+}
+
+/*
+ * Just a quick hamburger
+ */
+.menuToggleWhite span
+{
+  position: relative;
+  display: block;
+  width: 33px;
+  height: 3px;
+  margin-bottom: 6px;
+  background: black;
+  z-index: 2;
+  transform-origin: 4px 0px;
+  transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
+              background 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
+              opacity 0.55s ease;
+}
+
+.menuToggleWhite span:first-child
+{
+  transform-origin: 0% 0%;
+}
+
+.menuToggleWhite span:nth-last-child(2)
+{
+  transform-origin: 0% 100%;
+}
+
+/*
+ * Transform all the slices of hamburger
+ * into a crossmark.
+ */
+.menuToggleWhite input:checked ~ span
+{
+  opacity: 1;
+  transform: rotate(45deg) translate(-2px, -1px);
+  background: rgb(0, 0, 0);
+}
+
+/*
+ * But let's hide the middle one.
+ */
+.menuToggleWhite input:checked ~ span:nth-last-child(3)
+{
+  opacity: 0;
+  transform: rotate(0deg) scale(0.2, 0.2);
+}
+
+/*
+ * Ohyeah and the last one should go the other direction
+ */
+.menuToggleWhite input:checked ~ span:nth-last-child(2)
+{
+  transform: rotate(-45deg) translate(0, -1px);
+}
+
+.menuToggleWhite input:checked ~ ul
+{
+  transform: none;
+}
+
+
