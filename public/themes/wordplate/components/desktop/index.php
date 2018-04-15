@@ -15,20 +15,20 @@
 
         <div class="app">
         <img src="themes/wordplate/images/appstoreblack.svg" alt="appstore" class="app1">
-        <img src="themes/wordplate/images/appstoreblack.svg" alt="appstore" class="app2">
+        <img src="themes/wordplate/images/googleplay.png" alt="appstore" class="app2">
         </div>
 
         <img src="themes/wordplate/images/mockup.png" alt="" class="mockup">
 
         <div class="boxes">
             <div class="other">
-              <h2>I'm _____</h2>
+              <img src="themes/wordplate/images/other.jpg" alt="" class="otherimage">
             </div>
             <div class="fan">
-              <h2>I'm a fan</h2>
+              <img src="themes/wordplate/images/fans.jpg" alt="" class="fanimage">
             </div>
             <div class="athlete">
-              <h2>I'm an athlete</h2>
+             <img src="themes/wordplate/images/athlete.jpg" alt="" class="athleteimage">
             </div>
         </div>
 
@@ -63,31 +63,38 @@
         <div class="superusers">Superusers</div>
 
         <div class="testimonial1">
-        <h2 class="athletename">Nathalie Hagman</h2>
-        <p class="team">Nykøbing Falster HK</p>
+            <img src="themes/wordplate/images/nathaliehagman.png" alt="" class="testimonialimage1">
+<div class="athletetext1">
+        <h2 class="athletename1">Nathalie Hagman</h2>
+        <p class="team1">Nykøbing Falster HK</p>
         <br>
-        <p class="quote">"Iplay är den plattform som vi tidigare har saknat. Skapad för oss atleter med våra unika behov."</p>
+        <p class="quote1">"Iplay är den plattform som vi tidigare har saknat.<br> Skapad för oss atleter med våra unika behov."</p>
+</div>
         </div>
 
         <div class="testimonial2">
-        <h2 class="athletename">Victor Tomás</h2>
-        <p class="team">FC BARCELONA</p>
+            <img src="themes/wordplate/images/victorthomas.png" alt="" class="testimonialimage2">
+        <h2 class="athletename2">Victor Tomás</h2>
+        <p class="team2">FC BARCELONA</p>
         <br>
-        <p class="quote">"Iplay is a unique tool that will really make a difference for us athletes."</p>
+        <p class="quote2">"Iplay is a unique tool that will really make a difference for us athletes."</p>
         </div>
 
         <div class="testimonial3">
-        <h2 class="athletename">Niclas Ekberg</h2>
-        <p class="team">THW Kiel</p>
+            <img src="themes/wordplate/images/nicklasekberg.png" alt="" class="testimonialimage3">
+            <div class="athletetext3">
+        <h2 class="athletename3">Niclas Ekberg</h2>
+        <p class="team3">THW Kiel</p>
         <br>
-        <p class="quote">"På Iplay har jag full kontroll över min kommunikation och kan bygga mitt varumärke ännu starkare"</p>
+        <p class="quote3">"På Iplay har jag full kontroll över min kommunikation och kan bygga mitt varumärke ännu starkare"</p>
+            </div>
         </div>
 
-        <div class="testimonialimages">
-            <img src="themes/wordplate/images/nathaliehagman.png" alt="" class="image1">
-            <img src="themes/wordplate/images/victorthomas.png" alt="" class="image2">
-            <img src="themes/wordplate/images/nicklasekberg.png" alt="" class="image3">
-        </div>
+        <!-- <div class="testimonialimages"> -->
+            <!-- <img src="themes/wordplate/images/nathaliehagman.png" alt="" class="testimonialimage1"> -->
+            <!-- <img src="themes/wordplate/images/victorthomas.png" alt="" class="testimonialimage2"> -->
+            <!-- <img src="themes/wordplate/images/nicklasekberg.png" alt="" class="testimonialimage3">
+        </div> -->
 
 
     </div>

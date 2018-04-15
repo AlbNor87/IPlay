@@ -70,10 +70,6 @@
   margin-top: -2vh;
 }
 
-p {
-  width: 900px;
-
-}
 // .otherbox {
 //   background-image: url("/../images/other.jpg");
 //   width: 100%;
@@ -119,7 +115,7 @@ p {
 }
 
 .app2 {
-  width: 24vh;
+  width: 27vh;
 
 }
 
@@ -138,8 +134,8 @@ p {
 }
 
 .other {
-  background-image: url("../../../public/themes/wordplate/images/other.jpg");
-  // background: rgba(63, 191, 85, 0.5);
+  // background-image: url("../../../public/themes/wordplate/images/other.jpg");
+  // // background: rgba(63, 191, 85, 0.5);
   object-fit: cover;
   opacity: .4;
   width: 33.33%;
@@ -150,7 +146,7 @@ p {
 }
 
 .fan {
-  background-image: url("../../../public/themes/wordplate/images/fans.jpg");
+  // background-image: url("../../../public/themes/wordplate/images/fans.jpg");
   object-fit: cover;
   opacity: .9;
   width: 33.33%;
@@ -161,9 +157,9 @@ p {
 }
 
 .athlete {
-  background-image: url("../../../public/themes/wordplate/images/athlete.jpg");
+  // background-image: url("../../../public/themes/wordplate/images/athlete.jpg");
   object-fit: cover;
-  opacity: .4;
+  // opacity: .4;
   width: 33.33%;
   background-color: $IplayGreen;
   height: 1080px;
@@ -171,10 +167,29 @@ p {
   clip-path: polygon(0 10%, 100% 0%, 100% 100%, 0 100%);
 }
 
+.otherimage {
+  height: 100%;
+  margin-left: -25vw;
+
+}
+
+.fanimage {
+  height: 100%;
+  margin-left: -25vw;
+
+}
+
+.athleteimage {
+  height: 100%;
+  margin-left: -25vw;
+
+}
+
+
 .superusers {
     height: 16vh;
     width: 75vh;
-    background-color: #3FBF55;
+    background-color: $IplayGreen;
     color: white;
     margin: auto;
     text-align: center;
@@ -182,14 +197,14 @@ p {
     font-size: 9vh;
     font-weight: bold;
     margin-bottom: 65px;
-    margin-top: 100px;
+    margin-top: 120px;
 }
 
 .testimonial1 {
-  height: 300px;
-  width: 70vw;
+  height: calc(10vh + 10vw);
+  width: 75vw;
   float: right;
-  background-color: #3FBF55;
+  background-color: $IplayGreen;
   text-align: center;
   color: white;
   margin-bottom: 120px;
@@ -197,10 +212,10 @@ p {
 }
 
 .testimonial2 {
-  height: 300px;
-  width: 80vw;
+  height: calc(10vh + 10vw);
+  width: 75vw;
   float: left;
-  background-color: #3FBF55;
+  background-color: $IplayGreen;
   text-align: center;
   color: white;
   margin-bottom: 120px;
@@ -208,19 +223,90 @@ p {
 }
 
 .testimonial3 {
-  height: 300px;
-  width: 80vw;
+  height: calc(10vh + 10vw);
+  width: 75vw;
   float: right;
-  background-color: #3FBF55;
+  background-color: $IplayGreen;
   text-align: center;
   color: white;
   margin-bottom: 120px;
   clip-path: polygon(10% 0, 100% 0%, 100% 100%, 0% 100%);
 }
 
-// .testimonialimage1 {
-//   background-image: url("../../../public/themes/wordplate/images/nathaliehagman.png");
-//   width: 300px;
-//   height: 300px;
-//   border-radius: 100%;
+
+.testimonialimage1 {
+  position: absolute;
+  width: calc(9vh + 9vw);
+  border-radius: 100%;
+  margin-left: -31.5vw;
+  margin-top: 1.5vh;;
+}
+
+.testimonialimage2 {
+  position: absolute;
+  width: calc(9vh + 9vw);
+  border-radius: 100%;
+  margin-left: 17.5vw;
+  margin-top: 1.5vh;
+}
+
+.testimonialimage3 {
+  position: absolute;
+  width: calc(9vh + 9vw);
+  border-radius: 100%;
+  margin-left: -31.5vw;
+  margin-top: 1.5vh;
+}
+
+// .athletename1 {
+//   font-size: 4vh;
+//   margin-right: 13.4vw;
+// }
+
+.athletename2 {
+  font-size: 4vh;
+}
+
+.athletename3 {
+  font-size: 4vh;
+}
+
+// .team1 {
+//   font-size: 2.4vh;
+//   margin-left: 7.6vw;
+//   margin-top: -3vh;
+// }
+
+.team2 {
+  font-size: 2.4vh;
+  margin-left: 14vw;
+  margin-top: -3vh;
+}
+
+.team3 {
+  font-size: 2.4vh;
+  margin-left: 14vw;
+  margin-top: -3vh;
+}
+//
+// .quote1 {
+//   font-size: 3vh;
+//   margin-left: 20vw;
+//   margin-top: -3vh;
+//   text-align: center;
+// }
+
+.athletetext1 {
+  margin-left: 2vw;
+}
+// .quote2 {
+//   font-size: 3vh;
+//   margin-left: 17vw;
+//   margin-top: -3vh;
+// }
+
+// .quote3 {
+//   font-size: 3vh;
+//   margin-left: 17vw;
+//   margin-top: -3vh;
 // }
