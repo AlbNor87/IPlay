@@ -34,8 +34,10 @@
                     personal brand in the <br>
                     digital world.</p>
             </div>
-                <div class="learnmorebutton">Learn More</div>
-                <div class="getstartedbutton">Get Started</div>
+                <div class="boxbuttons">
+                    <div class="learnmorebutton1">Learn More</div>
+                    <div class="getstartedbutton1">Get Started</div>
+                </div>
         </div>
 
         <div class="fan">
@@ -44,6 +46,10 @@
             <p>Keep up to date <br>
                with everything you love <br>
                about sports.</p>
+            </div>
+            <div class="boxbuttons">
+                <div class="learnmorebutton2">Learn More</div>
+                <div class="getstartedbutton2">Get Started</div>
             </div>
         </div>
 
@@ -54,6 +60,10 @@
                    and we’ll tell you how <br>
                    Iplay works for you.</p>
             </div>
+        </div>
+        <div class="boxbuttons">
+            <div class="learnmorebutton3">Learn More</div>
+            <div class="getstartedbutton3">Get Started</div>
         </div>
     </div> <!-- boxes -->
 
