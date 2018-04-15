@@ -1,20 +1,34 @@
 .desktop {
-    display: block;
-
+    display: flex;
+    flex-direction: column;
+    
     @include bp(small) {
         display: none;
       }
 }
 
+.desktop-placeholder {
+  width: 100vw;
+  height: 67vh;
+}
+
+.desktop-whiteBgSquare {
+  position: absolute;
+  top: 100vh;
+  background-color: $IplayWhiteBG;
+  width: 100vw;
+  height: 100vh;
+}
+
 .desktoplogo {
   width: 180px;
-  margin-left: 22vh;
+  margin-left: 14.3vw;
   margin-top: 20px;
 }
 .navbar {
     background-color: $IplayGrey;
     width: 100%;
-    height: 110px;
+    height: 14vh;
 }
 
 .navbar-nav ul li ul li{
@@ -50,28 +64,31 @@
 }
 
 .title {
+  position: absolute;
   font-size: calc(2.5vh + 2.8vw);
   font-weight: bold;
   // line-height: 69px;
   color: $IplayGreen;
   line-height: 5px;
-  margin-top: 18vh;
-  margin-left: 22vh;
+  margin-top: 15vh;
+  margin-left: 14.3vw;
 }
 
 .titletext {
+  position: absolute;
   width: 700px;
   font-size: calc(1.4vh + 1.4vw);
   font-weight: 300;
   line-height: 10px;
-  margin-left: 22vh;
-  margin-top: -2vh;
+  margin-top: 39vh;
+  margin-left: 14.3vw;
 }
 
 .app {
+  position: absolute;
   width: 700px;
   margin-left: 22vh;
-  margin-top: 70px;
+  margin-top: 57vh
 }
 
 .app1 {
@@ -94,15 +111,13 @@
 
 .boxes {
   width: 100%;
-  height: 1080px;
-  margin-top: 16vh;
 }
 
 .other {
   background-color: $IplayBlue;
   background-blend-mode: multiply;
   background-image: url("/themes/wordplate/images/other.jpg");
-  background-size: 290%;
+  background-size: 306%;
   background-position: 64% 100%;
   width: 33.33%;
   height: 130vh;
@@ -114,7 +129,7 @@
   background-color: $IplayPink;
   background-blend-mode: multiply;
   background-image: url("/themes/wordplate/images/fans.jpg");
-  background-size: 260%;
+  background-size: 310%;
   background-position: 64% 100%;
   width: 33.33%;
   height: 130vh;
@@ -145,6 +160,7 @@
   font-size: 9vh;
   font-weight: bold;
   margin-bottom: 65px;
+  margin-top: 65px;
 }
 
 .testimonial1 {
@@ -265,7 +281,6 @@
   width: 100%;
   height: 500px;
   background-color:$IplayGrey;
-  margin-top: 1400px;
 }
 
 .footertext {
@@ -292,4 +307,21 @@
 
 .footerlogo {
   width: 20vh;
+}
+
+.desktop-row {
+  display: flex;
+  width: 100%;
+}
+
+.center {
+  justify-content: center;
+}
+
+.left {
+  justify-content: flex-start;
+}
+
+.right {
+  justify-content: flex-end;
 }
