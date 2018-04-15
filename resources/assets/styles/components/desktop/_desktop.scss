@@ -200,50 +200,92 @@
 
 .learnmorebutton1 {
   position: absolute;
-  color: white;
+  background-color: white;
+  height: 8vh;
+  width: 17vw;
+  color: black;
   margin-top: 91vh;
-  margin-left: 11vw;
+  margin-left: 8vw;
   font-size: 3.5vh;
+  text-align: center;
+  transform: skew(-25deg);
+  box-shadow: -15px 14px black;
+  padding: 15px;
 }
 
 .getstartedbutton1 {
   position: absolute;
-  color: white;
+  background-color: white;
+  height: 8vh;
+  width: 17vw;
+  color: black;
   margin-top: 105vh;
-  margin-left: 11vw;
+  margin-left: 8vw;
   font-size: 3.5vh;
+  text-align: center;
+  transform: skew(-25deg);
+  box-shadow: -15px 14px black;
+  padding: 15px;
 }
 
 .learnmorebutton2 {
   position: absolute;
-  color: white;
+  background-color: white;
+  height: 8vh;
+  width: 17vw;
+  color: black;
   margin-top: 91vh;
-  margin-left: 11vw;
+  margin-left: 8vw;
   font-size: 3.5vh;
+  text-align: center;
+  transform: skew(-25deg);
+  box-shadow: -15px 14px black;
+  padding: 15px;
 }
 
 .getstartedbutton2 {
   position: absolute;
-  color: white;
+  background-color: white;
+  height: 8vh;
+  width: 17vw;
+  color: black;
   margin-top: 105vh;
-  margin-left: 11vw;
+  margin-left: 8vw;
   font-size: 3.5vh;
+  text-align: center;
+  transform: skew(-25deg);
+  box-shadow: -15px 14px black;
+  padding: 15px;
 }
 
 .learnmorebutton3 {
   position: absolute;
-  color: white;
+  background-color: white;
+  height: 8vh;
+  width: 17vw;
+  color: black;
   margin-top: 91vh;
-  margin-left: 78vw;
+  margin-left: 75vw;
   font-size: 3.5vh;
+  text-align: center;
+  transform: skew(-25deg);
+  box-shadow: -15px 14px black;
+  padding: 15px;
 }
 
 .getstartedbutton3 {
   position: absolute;
-  color: white;
+  background-color: white;
+  height: 8vh;
+  width: 17vw;
+  color: black;
   margin-top: 105vh;
-  margin-left: 78vw;
+  margin-left: 75vw;
   font-size: 3.5vh;
+  text-align: center;
+  transform: skew(-25deg);
+  box-shadow: -15px 14px black;
+  padding: 15px;
 }
 
 
@@ -307,7 +349,7 @@
 }
 
 .testimonial1 {
-  height: calc(10vh + 10vw);
+  height: calc(12vh + 12vw);
   width: 75vw;
   float: right;
   background-color: $IplayGreen;
@@ -318,7 +360,7 @@
 }
 
 .testimonial2 {
-  height: calc(10vh + 10vw);
+  height: calc(12vh + 12vw);
   width: 75vw;
   float: left;
   background-color: $IplayGreen;
@@ -329,7 +371,7 @@
 }
 
 .testimonial3 {
-  height: calc(10vh + 10vw);
+  height: calc(12vh + 12vw);
   width: 75vw;
   float: right;
   background-color: $IplayGreen;
@@ -341,26 +383,26 @@
 
 .testimonialimage1 {
   position: absolute;
-  width: calc(9vh + 9vw);
+  width: calc(11vh + 11vw);
   border-radius: 100%;
-  margin-left: -31.5vw;
-  margin-top: 1.5vh;;
+  margin-left: -32.5vw;
+  margin-top: 1.3vh;;
 }
 
 .testimonialimage2 {
   position: absolute;
-  width: calc(9vh + 9vw);
+  width: calc(11vh + 11vw);
   border-radius: 100%;
-  margin-left: 17.5vw;
-  margin-top: 1.5vh;
+  margin-left: 15.3vw;
+  margin-top: 1.3vh;
 }
 
 .testimonialimage3 {
   position: absolute;
-  width: calc(9vh + 9vw);
+  width: calc(11vh + 11vw);
   border-radius: 100%;
-  margin-left: -31.5vw;
-  margin-top: 1.5vh;
+  margin-left: -32.5vw;
+  margin-top: 1.3vh;
 }
 
 .athletetext1 {
