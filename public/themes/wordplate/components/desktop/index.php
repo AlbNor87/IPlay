@@ -89,7 +89,16 @@
             <!-- <img src="themes/wordplate/images/victorthomas.png" alt="" class="testimonialimage2"> -->
             <!-- <img src="themes/wordplate/images/nicklasekberg.png" alt="" class="testimonialimage3">
         </div> -->
-<div class="desktopfooter"></div>
+<div class="desktopfooter">
+    <div class="footertext">
+        <img src="themes/wordplate/images/iplaylogo_white.svg" alt="wut" class="footerlogo">
+        <p class="footerlinks">About Careers Press Contact Blog</p>
+        <p class="footerphoneaddress">+46 725 455 900<br>Björckgatan 45A Göteborg</p>
+        <!-- <p class="footerphoneaddress">Björckgatan 45A Göteborg</p> -->
+        <p class="footercopyright">2016 All rights reserved. IPY Holding AB</p>
+    </div>
+
+</div>
 
     </div>
     <!-- DESKTOP END -->
