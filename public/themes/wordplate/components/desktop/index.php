@@ -21,15 +21,9 @@
         <img src="themes/wordplate/images/mockup.png" alt="" class="mockup">
 
         <div class="boxes">
-            <div class="other">
-              <img src="themes/wordplate/images/other.jpg" alt="" class="otherimage">
-            </div>
-            <div class="fan">
-              <img src="themes/wordplate/images/fans.jpg" alt="" class="fanimage">
-            </div>
-            <div class="athlete">
-             <img src="themes/wordplate/images/athlete.jpg" alt="" class="athleteimage">
-            </div>
+            <div class="other"></div>
+            <div class="fan"></div>
+            <div class="athlete"></div>
         </div>
 
 
@@ -95,7 +89,7 @@
             <!-- <img src="themes/wordplate/images/victorthomas.png" alt="" class="testimonialimage2"> -->
             <!-- <img src="themes/wordplate/images/nicklasekberg.png" alt="" class="testimonialimage3">
         </div> -->
-
+<div class="desktopfooter"></div>
 
     </div>
     <!-- DESKTOP END -->
