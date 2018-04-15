@@ -60,7 +60,7 @@
     position: absolute;
     left: 50%;
     top: 94vh;
-    transform: translate(0, -50%);
+    transform: translate(-50%);
 }
 
 .mob-landingpage-placeholder {
@@ -68,7 +68,10 @@
     height: 91.7vh;
 }
 
-.mob-athlete-box, .mob-fans-box, .mob-others-box {
+.mob-athlete-box, .mob-fan-box, .mob-other-box {
+    width: 93.87vw;
+    height: 258px;
+    margin-top: 12px;
     background-blend-mode: multiply;
     display: flex;
     flex-direction: column;
@@ -81,8 +84,6 @@
     background-image: url("/themes/wordplate/images/athlete.jpg");
     background-size: 187%;
     background-position: 9% 78%;
-    width: 93.87vw;
-    height: 258px;
     -webkit-clip-path: polygon(0 10%, 100% 0, 100% 100%, 0 100%);
     clip-path: polygon(0 10%, 100% 0, 100% 100%, 0 100%);
     h1 {
@@ -92,28 +93,23 @@
     }
 }
 
-.mob-fans-box {
-    margin-top: 12px;
+.mob-fan-box {
     background-color: $IplayPink;
     background-image: url("/themes/wordplate/images/fans.jpg");
     background-size: 179%;
     background-position: 11% 83%;
-    width: 93.87vw;
-    height: 258px;
     h1 {
         margin: 2%;
         font-size: 32px;
     }
 }
 
-.mob-others-box {
+.mob-other-box {
     padding-bottom: 9%;
-    margin-top: 12px;
+    margin-bottom: -15px;
     background-color: $IplayBlue;
     background-image: url("/themes/wordplate/images/other.jpg");
     background-size: 110%;
-    width: 93.87vw;
-    height: 258px;
     -webkit-clip-path: polygon(0 0, 100% 0%, 100% 100%, 0% 90%);
     clip-path: polygon(0 0, 100% 0%, 100% 100%, 0% 90%);
     h1 {
@@ -164,4 +160,99 @@
         margin-top: 2.5%;
         transform: skew(25deg);
     }
+}
+
+.mob-testamonial {
+    display: flex;
+    align-items: center;
+    background-color: $IplayGreen;
+    margin-top: 45px;
+    width: 360px;
+    height: 128px;
+}
+
+.cut-left{
+    text-align: left;
+    justify-content: flex-start;
+    -webkit-clip-path: polygon(10% 0, 100% 0, 100% 100%, 0 100%);
+    clip-path: polygon(10% 0, 100% 0, 100% 100%, 0 100%);
+}
+
+.cut-right{
+    text-align: right;
+    justify-content: flex-end;
+    -webkit-clip-path: polygon(0 0, 91% 0, 100% 100%, 0 100%);
+    clip-path: polygon(0 0, 91% 0, 100% 100%, 0 100%);
+}
+
+.mob-avatar {
+    margin: 10px;
+    width: 110px;
+    height: 110px;
+    border-radius: 100px;
+    border: 2px solid white;
+}
+
+.mob-testamonials-textbox {
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    h3 {
+        margin: 3px;
+        font-size: 15px;
+        font-weight: bold;
+    }
+    p {
+        margin: 3px;
+        font-size: 13px;
+        font-weight: 300;
+        font-style: italic;
+    }
+}
+
+.mob-thin {
+    font-weight: 300;
+}
+
+.mob-backtotop {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 131px;
+    h4 {
+        margin: 1%;
+        font-weight: 500;
+    }
+}
+
+.mob-arrow-up {
+    width: 23px;
+}
+
+.mob-footer {
+    display: flex;
+    background-color: $IplayFooterGrey;
+    flex-direction: column;
+    width: 100%;
+    height: 514px;
+    h4 {
+        margin: 1%;
+        font-weight: 500;
+    }
+}
+
+.mob-getTheApp {
+    margin: 10px;
+    width: 150px;
+    height: 50px;
+}
+
+.mob-footer-logo {
+    margin: 15%;
+    margin-left: 10%;
+    width: 150px;
+    height: 50px;
 }

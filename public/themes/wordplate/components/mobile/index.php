@@ -46,7 +46,7 @@
             
         </div><!-- mob-athlete-box -->
 
-        <div class="mob-fans-box">
+        <div class="mob-fan-box">
 
             <div class="mob-row center">
                 <h1>I’m a fan</h1>
@@ -66,7 +66,7 @@
 
         </div><!-- mob-fans-box -->
         
-        <div class="mob-others-box">
+        <div class="mob-other-box">
 
             <div class="mob-row center">
                 <h1>I’m ______</h1>
@@ -85,6 +85,68 @@
             </div><!-- mob-row -->
 
         </div><!-- mob-others-box -->
+
+        <div class="mob-row right">
+            <div class="mob-testamonial cut-left">
+            <img src="themes/wordplate/images/nathaliehagman.png" alt="nathalie hagman" class="mob-avatar">    
+                <div class="mob-testamonials-textbox">
+                    <h3>Nathalie Hagman <br> 
+                    <span class="mob-thin">Nykøbing Falster HK</span></h3>
+                    <p>”Iplay is the platform that we’ve <br> 
+                    previously lacked. It’s created for <br>
+                    us, the athletes, with our unique <br>
+                    needs in mind.”</p>
+                </div><!-- mob-testamonials-textbox -->
+            </div><!-- mob-testamonial -->
+        </div><!-- mob-row -->
+
+        <div class="mob-row left">
+            <div class="mob-testamonial cut-right">
+            <div class="mob-testamonials-textbox">
+                    <h3>Victor Tomás <br> 
+                    <span class="mob-thin">FC BARCELONA</span></h3>
+                    <p>“Iplay is a unique tool that will really <br>
+                    make a difference for us athletes.”</p>
+                </div><!-- mob-testamonials-textbox -->
+            <img src="themes/wordplate/images/victorthomas.png" alt="victor thomas" class="mob-avatar">    
+            </div><!-- mob-testamonial -->
+        </div><!-- mob-row -->
+
+        <div class="mob-row right">
+            <div class="mob-testamonial cut-left">
+            <img src="themes/wordplate/images/nicklasekberg.png" alt="nicklas ekberg" class="mob-avatar">    
+                <div class="mob-testamonials-textbox">
+                    <h3>Niclas Ekberg <br> 
+                    <span class="mob-thin">THW Kiel</span></h3>
+                    <p>”With Iplay I have full control over <br>
+                    my communication and can build <br>
+                    my brand even stronger.”</p>
+                </div><!-- mob-testamonials-textbox -->    
+            </div><!-- mob-testamonial -->
+        </div><!-- mob-row -->
+
+        <div class="mob-backtotop">
+            
+            <img src="themes/wordplate/images/uparrow.png" alt="scroll-up arrow" class="mob-arrow-up">
+            <h4>Back to top</h4>
+
+        </div><!-- mob-backtotop -->
+
+        <div class="mob-footer">
+
+            <div class="mob-row left">
+                <img src="themes/wordplate/images/Iplaylogo_white.svg" alt="logo" class="mob-footer-logo">
+            </div><!-- mob-row -->
+
+            <div class="mob-row center">
+                <img src="themes/wordplate/images/appstoreblack.svg" alt="appstore" class="mob-getTheApp">
+            </div><!-- mob-row -->
+
+            <div class="mob-row center">
+                <img src="themes/wordplate/images/googleplay.png" alt="googleplay" class="mob-getTheApp">
+            </div><!-- mob-row -->
+
+        </div>
 
     </div><!-- mob-container -->
 
