@@ -58,37 +58,34 @@
 
         <div class="testimonial1">
             <img src="themes/wordplate/images/nathaliehagman.png" alt="" class="testimonialimage1">
-<div class="athletetext1">
-        <h2 class="athletename1">Nathalie Hagman</h2>
-        <p class="team1">Nykøbing Falster HK</p>
-        <br>
-        <p class="quote1">"Iplay är den plattform som vi tidigare har saknat.<br> Skapad för oss atleter med våra unika behov."</p>
-</div>
+            <div class="athletetext1">
+                <h2 class="athletename1">Nathalie Hagman</h2>
+                <p class="team1">Nykøbing Falster HK</p>
+                <br>
+                <p class="quote1">"Iplay är den plattform som vi tidigare har saknat.<br> Skapad för oss atleter med våra unika behov."</p>
+            </div>
         </div>
 
         <div class="testimonial2">
             <img src="themes/wordplate/images/victorthomas.png" alt="" class="testimonialimage2">
-        <h2 class="athletename2">Victor Tomás</h2>
-        <p class="team2">FC BARCELONA</p>
-        <br>
-        <p class="quote2">"Iplay is a unique tool that will really make a difference for us athletes."</p>
+            <div class="athletetext2">
+                <h2 class="athletename2">Victor Tomás</h2>
+                <p class="team2">FC BARCELONA</p>
+                <br>
+                <p class="quote2">"Iplay is a unique tool that will really<br> make a difference for us athletes."</p>
+            </div>
         </div>
 
         <div class="testimonial3">
             <img src="themes/wordplate/images/nicklasekberg.png" alt="" class="testimonialimage3">
             <div class="athletetext3">
-        <h2 class="athletename3">Niclas Ekberg</h2>
-        <p class="team3">THW Kiel</p>
-        <br>
-        <p class="quote3">"På Iplay har jag full kontroll över min kommunikation och kan bygga mitt varumärke ännu starkare"</p>
+                <h2 class="athletename3">Niclas Ekberg</h2>
+                <p class="team3">THW Kiel</p>
+                <br>
+                <p class="quote3">"På Iplay har jag full kontroll över min kommunikation och kan bygga mitt varumärke ännu starkare"</p>
             </div>
         </div>
 
-        <!-- <div class="testimonialimages"> -->
-            <!-- <img src="themes/wordplate/images/nathaliehagman.png" alt="" class="testimonialimage1"> -->
-            <!-- <img src="themes/wordplate/images/victorthomas.png" alt="" class="testimonialimage2"> -->
-            <!-- <img src="themes/wordplate/images/nicklasekberg.png" alt="" class="testimonialimage3">
-        </div> -->
 <div class="desktopfooter">
     <div class="footertext">
         <img src="themes/wordplate/images/iplaylogo_white.svg" alt="wut" class="footerlogo">
