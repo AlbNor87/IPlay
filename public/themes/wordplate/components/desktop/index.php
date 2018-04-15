@@ -34,6 +34,8 @@
                     personal brand in the <br>
                     digital world.</p>
             </div>
+                <div class="learnmorebutton">Learn More</div>
+                <div class="getstartedbutton">Get Started</div>
         </div>
 
         <div class="fan">
@@ -41,7 +43,7 @@
             <h1>I'm a fan</h1>
             <p>Keep up to date <br>
                with everything you love <br>
-               about sports.
+               about sports.</p>
             </div>
         </div>
 
