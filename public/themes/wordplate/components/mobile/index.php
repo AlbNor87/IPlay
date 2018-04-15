@@ -27,10 +27,64 @@
         <div class="mob-landingpage-placeholder"></div>
 
         <div class="mob-athlete-box">
-            <h1>Tjoho!</h1>
-        </div>
-        <div class="mob-fans-box"></div>
-        <div class="mob-others-box"></div>
+
+            <div class="mob-row center">
+                <h1>I’m an athlete</h1>
+            </div><!-- mob-row -->
+
+            <div class="mob-row center">
+                <p>Start building your personal brand <br>
+                 in the digital world.</p>
+            </div><!-- mob-row -->
+            
+            <div class="mob-row center">
+                <div class="buttons">
+                    <div class="mob-btn"><h3>Learn more</h3></div>
+                    <div class="mob-btn"><h3>Get started</h3></div>
+                </div><!-- buttons -->
+            </div><!-- mob-row -->
+            
+        </div><!-- mob-athlete-box -->
+
+        <div class="mob-fans-box">
+
+            <div class="mob-row center">
+                <h1>I’m a fan</h1>
+            </div><!-- mob-row -->
+
+            <div class="mob-row center">
+                <p>Keep up to date with everything you <br>
+                love about sports.</p>
+            </div><!-- mob-row -->
+            
+            <div class="mob-row center">
+                <div class="buttons">
+                    <div class="mob-btn"><h3>Learn more</h3></div>
+                    <div class="mob-btn"><h3>Get started</h3></div>
+                </div><!-- buttons -->
+            </div><!-- mob-row -->
+
+        </div><!-- mob-fans-box -->
+        
+        <div class="mob-others-box">
+
+            <div class="mob-row center">
+                <h1>I’m ______</h1>
+            </div><!-- mob-row -->
+
+            <div class="mob-row center">
+                <p>Tell us your role and we’ll tell you <br>
+                how Iplay works for you.</p>
+            </div><!-- mob-row -->
+            
+            <div class="mob-row center">
+                <div class="buttons">
+                    <div class="mob-btn"><h3>Learn more</h3></div>
+                    <div class="mob-btn"><h3>Get started</h3></div>
+                </div><!-- buttons -->
+            </div><!-- mob-row -->
+
+        </div><!-- mob-others-box -->
 
     </div><!-- mob-container -->
 
