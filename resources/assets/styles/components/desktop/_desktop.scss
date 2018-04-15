@@ -33,7 +33,6 @@
     font-size: 24px;
     padding: 10px;
     margin-right: 40px;
-
 }
 
 .navbar-nav ul li {
@@ -48,7 +47,6 @@
 .menu-wrapper {
     display: flex;
     float: right;
-    // margin: 20px;
 }
 
 .title {
@@ -83,7 +81,6 @@
 
 .app2 {
   width: 27vh;
-
 }
 
 .mockup {
@@ -138,16 +135,16 @@
 }
 
 .superusers {
-    height: 16vh;
-    width: 75vh;
-    background-color: $IplayGreen;
-    color: white;
-    margin: auto;
-    text-align: center;
-    color: white;
-    font-size: 9vh;
-    font-weight: bold;
-    margin-bottom: 65px;
+  height: 16vh;
+  width: 75vh;
+  background-color: $IplayGreen;
+  color: white;
+  margin: auto;
+  text-align: center;
+  color: white;
+  font-size: 9vh;
+  font-weight: bold;
+  margin-bottom: 65px;
 }
 
 .testimonial1 {
@@ -182,7 +179,6 @@
   margin-bottom: 120px;
   clip-path: polygon(10% 0, 100% 0%, 100% 100%, 0% 100%);
 }
-
 
 .testimonialimage1 {
   position: absolute;
