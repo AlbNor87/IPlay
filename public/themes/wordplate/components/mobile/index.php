@@ -26,7 +26,9 @@
 
         <div class="mob-landingpage-placeholder"></div>
 
-        <div class="mob-athlete-box"></div>
+        <div class="mob-athlete-box">
+            <h1>Tjoho!</h1>
+        </div>
         <div class="mob-fans-box"></div>
         <div class="mob-others-box"></div>
 

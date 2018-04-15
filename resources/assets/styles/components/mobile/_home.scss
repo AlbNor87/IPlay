@@ -70,15 +70,23 @@
 
 .mob-athlete-box {
     background-color: $IplayGreen;
+    background-blend-mode: multiply;
+    background-image: url("/themes/wordplate/images/athlete.jpg");
+    background-size: 179%;
+    background-position: 11% 83%;
     width: 93.87vw;
     height: 258px;
-    -webkit-clip-path: polygon(0 10%, 100% 0%, 100% 100%, 0% 100%);
-    clip-path: polygon(0 10%, 100% 0%, 100% 100%, 0% 100%);
+    -webkit-clip-path: polygon(0 10%, 100% 0, 100% 100%, 0 100%);
+    clip-path: polygon(0 10%, 100% 0, 100% 100%, 0 100%);
 }
 
 .mob-fans-box {
     margin-top: 12px;
     background-color: $IplayPink;
+    background-blend-mode: multiply;
+    background-image: url("/themes/wordplate/images/fans.jpg");
+    background-size: 179%;
+    background-position: 11% 83%;
     width: 93.87vw;
     height: 258px;
 }
