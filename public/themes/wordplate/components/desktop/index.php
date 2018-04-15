@@ -3,6 +3,7 @@
 
     <div class="desktop-placeholder"></div>
 
+<div class="title-app-container">
     <div class="title">
         <p>UNITING</p>
         <p>THE WORLD</p>
@@ -19,8 +20,9 @@
         <img src="themes/wordplate/images/appstoreblack.svg" alt="appstore" class="app1">
         <img src="themes/wordplate/images/googleplay.png" alt="appstore" class="app2">
     </div>
+</div> <!-- title-app-container -->
 
-    <img src="themes/wordplate/images/mockup.png" alt="" class="mockup">
+    <img src="themes/wordplate/images/mockup.png" alt="mockup" class="mockup">
 
     <div class="desktop-whiteBgSquare"></div>
 
@@ -44,6 +46,7 @@
         </div>
     </div><!-- desktop-row -->
 
+<div class="desktop-row left">
     <div class="testimonial2">
         <img src="themes/wordplate/images/victorthomas.png" alt="" class="testimonialimage2">
         <div class="athletetext2">
@@ -53,16 +56,19 @@
             <p class="quote2">"Iplay is a unique tool that will really<br> make a difference for us athletes."</p>
         </div>
     </div>
+</div><!-- desktop-row -->
 
+<div class="desktop-row right">
     <div class="testimonial3">
         <img src="themes/wordplate/images/nicklasekberg.png" alt="" class="testimonialimage3">
         <div class="athletetext3">
-            <h2 class="athletename3">Niclas Ekberg</h2>
+            <h2 class="athletename3">Nicklas Ekberg</h2>
             <p class="team3">THW Kiel</p>
             <br>
             <p class="quote3">"På Iplay har jag full kontroll över min kommunikation och kan bygga mitt varumärke ännu starkare"</p>
         </div>
     </div>
+</div><!-- desktop-row -->
 
     <div class="desktopfooter">
         <div class="footertext">
