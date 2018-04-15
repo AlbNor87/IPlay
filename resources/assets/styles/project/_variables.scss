@@ -2,6 +2,7 @@ $IplayGrey: #4e4e4e;
 $IplayGreen: #3FBF55;
 $IplayPink: #E50279;
 $IplayBlue: #1E92FE;
+$IplayWhiteBG: #F5F5F5;
 
 @mixin bp($point) {
     @if $point == small {
