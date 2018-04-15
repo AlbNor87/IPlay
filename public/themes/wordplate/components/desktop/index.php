@@ -27,10 +27,33 @@
     <div class="desktop-whiteBgSquare"></div>
 
     <div class="boxes">
-        <div class="other"></div>
-        <div class="fan"></div>
-        <div class="athlete"></div>
-    </div>
+        <div class="other">
+            <div class="othertext">
+                <h1>I'm _____</h1>
+                <p>Start building your <br>
+                    personal brand in the <br>
+                    digital world.</p>
+            </div>
+        </div>
+
+        <div class="fan">
+            <div class="fantext">
+            <h1>I'm a fan</h1>
+            <p>Keep up to date <br>
+               with everything you love <br>
+               about sports.
+            </div>
+        </div>
+
+        <div class="athlete">
+            <div class="athletetext">
+                <h1>I'm an athlete</h1>
+                <p>Tell us your role <br>
+                   and we’ll tell you how <br>
+                   Iplay works for you.</p>
+            </div>
+        </div>
+    </div> <!-- boxes -->
 
     <div class="superusers">Superusers</div>
 

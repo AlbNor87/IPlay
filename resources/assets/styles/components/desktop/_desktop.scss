@@ -126,6 +126,20 @@
   clip-path: polygon(0 30%, 100% 20%, 100% 100%, 0 100%);
 }
 
+.othertext {
+  position: absolute;
+  color: white;
+  font-size: 3.2vh;
+  margin-top: 45vh;
+  margin-left: 8vw;
+
+  p {
+    font-size: 2.5vw;
+    font-weight: 300;
+    text-align: center;
+    margin-left: -3.4vw;
+  }
+}
 .fan {
   background-color: $IplayPink;
   background-blend-mode: multiply;
@@ -138,6 +152,21 @@
   clip-path: polygon(0 20%, 100% 10%, 100% 100%, 0 100%);
 }
 
+.fantext {
+  position: absolute;
+  color: white;
+  font-size: 3.2vh;
+  margin-top: 45vh;
+  margin-left: 8vw;
+
+  p {
+    font-size: 2.5vw;
+    font-weight: 300;
+    text-align: center;
+    margin-left: -5.1vw;
+  }
+}
+
 .athlete {
   background-color: $IplayGreen;
   background-blend-mode: multiply;
@@ -148,6 +177,21 @@
   height: 130vh;
   float: left;
   clip-path: polygon(0 10%, 100% 0%, 100% 100%, 0 100%);
+}
+
+.athletetext {
+  position: absolute;
+  color: white;
+  font-size: 3.2vh;
+  margin-top: 45vh;
+  margin-left: 4vw;
+
+  p {
+    font-size: 2.5vw;
+    font-weight: 300;
+    text-align: center;
+    margin-left: 0.5vw;
+  }
 }
 
 .superusers {
