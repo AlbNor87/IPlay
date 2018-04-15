@@ -26,34 +26,6 @@
             <div class="athlete"></div>
         </div>
 
-
-        <!-- <div class="otherbox">
-            <h2>HELLOO</h2>
-            <img src="themes/wordplate/assets/images/other.jpg" alt="other" style="opacity: .2; height: 100%; width: 100%; object-fit: cover;">
-        </div>
-
-        <div class="fanbox">
-            <img src="themes/wordplate/assets/images/fans.jpg" alt="" style="opacity: .2; height: 100%; width: 100%; object-fit: cover;">
-        </div>
-
-        <div class="athletebox">
-            <img src="themes/wordplate/assets/images/athlete.jpg" alt="" style="opacity: .2; height: 100%; width: 100%; object-fit: cover;">
-        </div> -->
-
-
-        <!-- <div class="othertext">
-        <h2>I'm _____.</h2>
-        </div>
-
-        <div class="fantext">
-        <h2>I'm a fan.</h2>
-        </div>
-
-        <div class="athletetext">
-        <h2>I'm an athlete.</h2>
-        </div> -->
-
-
         <div class="superusers">Superusers</div>
 
         <div class="testimonial1">
@@ -91,7 +63,6 @@
         <img src="themes/wordplate/images/iplaylogo_white.svg" alt="wut" class="footerlogo">
         <p class="footerlinks">About Careers Press Contact Blog</p>
         <p class="footerphoneaddress">+46 725 455 900<br>Björckgatan 45A Göteborg</p>
-        <!-- <p class="footerphoneaddress">Björckgatan 45A Göteborg</p> -->
         <p class="footercopyright">2016 All rights reserved. IPY Holding AB</p>
     </div>
 

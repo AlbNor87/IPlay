@@ -128,7 +128,7 @@
 .athlete {
   background-color: $IplayGreen;
   background-blend-mode: multiply;
-  background-image: url("../../../public/themes/wordplate/images/athlete.jpg");
+  background-image: url("/themes/wordplate/images/athlete.jpg");
   background-size: 320%;
   background-position: 48% 100%;
   width: 33.33%;
@@ -231,6 +231,7 @@
   text-align: right;
   margin-right: 23vw;
 }
+
 .athletename2 {
   font-size: 3.5vh;
 }
@@ -249,9 +250,11 @@
   text-align: left;
   margin-left: 23vw;
 }
+
 .athletename3 {
   font-size: 3.5vh;
 }
+
 .team3 {
   font-size: 2.3vh;
   margin-top: -2.9vh;
