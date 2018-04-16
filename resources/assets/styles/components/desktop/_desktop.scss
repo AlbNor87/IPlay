@@ -31,10 +31,7 @@
     height: 14vh;
 }
 
-.navbar-nav ul li ul li{
-    display: none;
-    background-color: $IplayGrey;
-}
+
 
 .navbar-nav ul li:hover ul li {
     display: block;
@@ -55,7 +52,14 @@
 
 .navbar-nav ul li ul {
     flex-direction: column;
-    margin: 20px;
+    background-color: $IplayGrey;
+    position: absolute;
+    z-index: 2;
+    margin-left: -10px;
+}
+
+.navbar-nav ul li ul li{
+  display: none;
 }
 
 .menu-wrapper {

@@ -17,5 +17,5 @@
 
     </div><!-- mob-container -->
 
-</div>
+</div><!-- mobile -->
 <!-- MOBILE END -->
