@@ -1,0 +1,56 @@
+h1 {
+  font-size: 2vw;
+}
+
+.imageboxes {
+
+}
+
+.image1 {
+  background-color: $IplayGreen;
+  background-blend-mode: multiply;
+  background-image: url("/themes/wordplate/images/nathaliehagman.png");
+  padding: 20px;
+  background-size: 100%;
+  background-position: 64% 100%;
+  width: 25%;
+  height: 40vh;
+  float: left;
+  margin-left: 3vw;
+}
+
+.image2 {
+  background-color: $IplayGreen;
+  background-blend-mode: multiply;
+  background-image: url("/themes/wordplate/images/nathaliehagman.png");
+  padding: 20px;
+  background-size: 100%;
+  background-position: 64% 100%;
+  width: 25%;
+  height: 40vh;
+  float: left;
+  margin-left: 3vw;
+}
+
+.image3 {
+  background-color: $IplayGreen;
+  background-blend-mode: multiply;
+  background-image: url("/themes/wordplate/images/nathaliehagman.png");
+  padding: 20px;
+  background-size: 100%;
+  background-position: 64% 100%;
+  width: 25%;
+  height: 40vh;
+  float: left;
+  margin-left: 3vw;
+}
+
+.image-row {
+  position: relative;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  color: white;
+  text-align: center;
+  margin-top: 8.5vh;
+}

@@ -49,6 +49,7 @@
             </div><!-- mob-row -->
 
         </div>
+
         <div class="fan">
             <div class="desktop-row center">
                 <h1>I’m a fan</h1>
@@ -98,7 +99,9 @@
         </div>
     </div> <!-- boxes -->
 
-    <div class="superusers">Superusers</div>
+    <div class="superusers">
+        <h1>Superusers</h1>
+    </div>
 
     <div class="desktop-row right">
         <div class="testimonial1">
