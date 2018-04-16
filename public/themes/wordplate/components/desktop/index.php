@@ -30,7 +30,7 @@
 
         <div class="other">
             <div class="desktop-row center">
-                <h1>I’m an athlete</h1>
+                <h1>I’m _____</h1>
             </div><!-- mob-row -->
 
             <div class="desktop-row center">
@@ -41,6 +41,11 @@
             <div class="desktop-row center">
                 <div class="desktopbuttons">
                     <div class="desktop-btn"><h3>Learn more</h3></div>
+                </div><!-- buttons -->
+            </div><!-- mob-row -->
+
+            <div class="desktop-row center">
+                <div class="desktopbuttons">
                     <div class="desktop-btn"><h3>Get started</h3></div>
                 </div><!-- buttons -->
             </div><!-- mob-row -->
@@ -48,7 +53,7 @@
         </div>
         <div class="fan">
             <div class="desktop-row center">
-                <h1>I’m an athlete</h1>
+                <h1>I’m a fan</h1>
             </div><!-- mob-row -->
 
             <div class="desktop-row center">
@@ -59,6 +64,11 @@
             <div class="desktop-row center">
                 <div class="desktopbuttons">
                     <div class="desktop-btn"><h3>Learn more</h3></div>
+                </div><!-- buttons -->
+            </div><!-- mob-row -->
+
+            <div class="desktop-row center">
+                <div class="desktopbuttons">
                     <div class="desktop-btn"><h3>Get started</h3></div>
                 </div><!-- buttons -->
             </div><!-- mob-row -->
@@ -78,6 +88,11 @@
             <div class="desktop-row center">
                 <div class="desktopbuttons">
                     <div class="desktop-btn"><h3>Learn more</h3></div>
+                </div><!-- buttons -->
+            </div><!-- mob-row -->
+
+            <div class="desktop-row center">
+                <div class="desktopbuttons">
                     <div class="desktop-btn"><h3>Get started</h3></div>
                 </div><!-- buttons -->
             </div><!-- mob-row -->
