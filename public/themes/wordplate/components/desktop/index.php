@@ -111,6 +111,8 @@
             <p class="footerlinks">About Careers Press Contact Blog</p>
             <p class="footerphoneaddress">+46 725 455 900<br>Björckgatan 45A Göteborg</p>
             <p class="footercopyright">2016 All rights reserved. IPY Holding AB</p>
+            <p class="footerprenumera">Prenumera på nyhetsbrevet <br> för nyheter!</p>
+            <p class="footeremail">DIN E-POST ADRESS</p>
         </div>
 
     </div><!-- desktop-footer -->

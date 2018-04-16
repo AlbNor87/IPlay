@@ -127,7 +127,6 @@
 }
 
 .othertext {
-  position: absolute;
   color: white;
   font-size: 3.2vh;
   margin-top: 45vh;
@@ -153,7 +152,6 @@
 }
 
 .fantext {
-  position: absolute;
   color: white;
   font-size: 3.2vh;
   margin-top: 45vh;
@@ -180,7 +178,6 @@
 }
 
 .athletetext {
-  position: absolute;
   color: white;
   font-size: 3.2vh;
   margin-top: 45vh;
@@ -199,140 +196,94 @@
 }
 
 .learnmorebutton1 {
-  position: absolute;
   background-color: white;
   height: 8vh;
   width: 17vw;
   color: black;
   margin-top: 91vh;
   margin-left: 8vw;
-  font-size: 3.5vh;
+  font-size: 3vh;
   text-align: center;
   transform: skew(-25deg);
   box-shadow: -15px 14px black;
-  padding: 15px;
+  padding: 2vh;
+  font-weight: bold;
 }
 
 .getstartedbutton1 {
-  position: absolute;
   background-color: white;
   height: 8vh;
   width: 17vw;
   color: black;
   margin-top: 105vh;
   margin-left: 8vw;
-  font-size: 3.5vh;
+  font-size: 3vh;
   text-align: center;
+  font-weight: bold;
   transform: skew(-25deg);
   box-shadow: -15px 14px black;
-  padding: 15px;
+  padding: 2vh;
 }
 
 .learnmorebutton2 {
-  position: absolute;
   background-color: white;
   height: 8vh;
   width: 17vw;
   color: black;
   margin-top: 91vh;
   margin-left: 8vw;
-  font-size: 3.5vh;
+  font-size: 3vh;
   text-align: center;
+  font-weight: bold;
   transform: skew(-25deg);
   box-shadow: -15px 14px black;
-  padding: 15px;
+  padding: 2vh;
 }
 
 .getstartedbutton2 {
-  position: absolute;
   background-color: white;
   height: 8vh;
   width: 17vw;
   color: black;
   margin-top: 105vh;
   margin-left: 8vw;
-  font-size: 3.5vh;
+  font-size: 3vh;
   text-align: center;
+  font-weight: bold;
   transform: skew(-25deg);
   box-shadow: -15px 14px black;
-  padding: 15px;
+  padding: 2vh;
 }
 
 .learnmorebutton3 {
-  position: absolute;
   background-color: white;
   height: 8vh;
   width: 17vw;
   color: black;
   margin-top: 91vh;
   margin-left: 75vw;
-  font-size: 3.5vh;
+  font-size: 3vh;
   text-align: center;
+  font-weight: bold;
   transform: skew(-25deg);
   box-shadow: -15px 14px black;
-  padding: 15px;
+  padding: 2vh;
 }
 
 .getstartedbutton3 {
-  position: absolute;
   background-color: white;
   height: 8vh;
   width: 17vw;
   color: black;
   margin-top: 105vh;
   margin-left: 75vw;
-  font-size: 3.5vh;
+  font-size: 3vh;
   text-align: center;
+  font-weight: bold;
   transform: skew(-25deg);
   box-shadow: -15px 14px black;
-  padding: 15px;
+  padding: 2vh;
 }
-
-
-// .boxbuttons {
-//     width: 100%;
-//     display: flex;
-//     flex-direction: row;
-//     justify-content: space-around;
-//     padding-left: 5%;
-//     padding-right: 5%;
-//     color: black;
-//
-//     h3 {
-//         font-size: 16px;
-//         font-style: italic;
-//         text-align: center;
-//         margin: 0;
-//         margin-top: 2.5%;
-//         transform: skew(25deg);
-//     }
-// }
-//
-// .boxbutton {
-//     background-color: white;
-//     width: 120px;
-//     height: 30px;;
-//     transform: skew(-25deg);
-//     // -webkit-clip-path: polygon(20% 0, 100% 0, 80% 100%, 0 100%);
-//     // clip-path: polygon(20% 0, 100% 0, 80% 100%, 0 100%);
-//     box-shadow: -5px 5px black;
-// }
-//
-// .boxrow {
-//       width: 100%;
-//       display: flex;
-//       flex-direction: row;
-//       color: white;
-//       text-align: center;
-//
-//       p {
-//           margin: 0;
-//           margin-bottom: 11%;
-//           font-weight: 300;
-//           font-size: 16px;
-//       }
-//   }
-// }
 
 .superusers {
   height: 16vh;
@@ -464,7 +415,7 @@
 
 .desktopfooter {
   width: 100%;
-  background-color:$IplayGrey;
+  background-color:$IplayFooterGrey;
 }
 
 .footertext {
@@ -496,4 +447,18 @@
 .desktop-row {
   display: flex;
   width: 100%;
+}
+
+.footerprenumera {
+  position: absolute;
+  margin-left: 44vw;
+  margin-top: -41vh;
+  font-size: 3.5vh;
+}
+
+.footeremail {
+  position: absolute;
+  margin-left: 44vw;
+  margin-top: -25vh;
+  font-size: 3.5vh;
 }
