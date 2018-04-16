@@ -33,4 +33,26 @@
 
 }
 
+.mob-title {
+    margin-top: 50px;
+    margin-bottom: 20px;
+    color: black;
+    font-size: 28px;
+}
+
+.mob-content {
+    margin-top: 30px; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: black;
+    h3 {
+        font-size: 16px;
+    }
+    p {
+        font-size: 16px;
+        font-weight: 300px;
+    }
+}
+
 
