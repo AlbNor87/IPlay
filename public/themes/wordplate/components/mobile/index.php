@@ -1,5 +1,5 @@
 <!-- MOBILE NAVBAR START-->
-<div class="mobile">
+<div class="mobile id="top"">
 
     <div class="mob-nav">
 
@@ -21,7 +21,7 @@
     
         <img src="/themes/wordplate/images/mockup.png" alt="logo" class="mob-mockup">
 
-        <div class="mob-slogan" id="top">
+        <div class="mob-slogan">
             
             <h1>UNITING <br>
                 THE WORLD<br>
