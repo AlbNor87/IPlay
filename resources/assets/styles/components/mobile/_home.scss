@@ -129,6 +129,7 @@
 }
 
 .mob-row {
+    position: relative;
     width: 100%;
     display: flex;
     flex-direction: row;
@@ -167,7 +168,7 @@
     align-items: center;
     background-color: $IplayGreen;
     margin-top: 45px;
-    width: 360px;
+    width: 357px;
     height: 128px;
 }
 
@@ -186,6 +187,7 @@
 }
 
 .mob-avatar {
+    position: absolute;
     margin: 10px;
     width: 110px;
     height: 110px;
@@ -211,6 +213,13 @@
     }
 }
 
+.padding-right {
+    padding-right: 122px;
+}
+.padding-left {
+    padding-left: 122px;
+}
+
 .mob-thin {
     font-weight: 300;
 }
@@ -223,8 +232,12 @@
     width: 100%;
     height: 131px;
     h4 {
+        color: black;
         margin: 1%;
         font-weight: 500;
+    }
+    a {
+        color: black;
     }
 }
 
@@ -256,3 +269,14 @@
     width: 150px;
     height: 50px;
 }
+
+.avatar-left {
+    top: 44px;
+    left: 11px;
+}
+
+.avatar-right {
+    top: 44px;
+    right: 11px;
+}
+

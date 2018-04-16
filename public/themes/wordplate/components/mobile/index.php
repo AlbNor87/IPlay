@@ -21,7 +21,7 @@
     
         <img src="/themes/wordplate/images/mockup.png" alt="logo" class="mob-mockup">
 
-        <div class="mob-slogan">
+        <div class="mob-slogan" id="top">
             
             <h1>UNITING <br>
                 THE WORLD<br>
@@ -103,35 +103,34 @@
         </div><!-- mob-others-box -->
 
         <div class="mob-row right">
-            <div class="mob-testamonial cut-left">
-            <img src="themes/wordplate/images/nathaliehagman.png" alt="nathalie hagman" class="mob-avatar">    
-                <div class="mob-testamonials-textbox">
-                    <h3>Nathalie Hagman <br> 
-                    <span class="mob-thin">Nykøbing Falster HK</span></h3>
-                    <p>”Iplay is the platform that we’ve <br> 
-                    previously lacked. It’s created for <br>
-                    us, the athletes, with our unique <br>
-                    needs in mind.”</p>
-                </div><!-- mob-testamonials-textbox -->
+                <div class="mob-testamonial cut-left">
+                    <div class="mob-testamonials-textbox padding-left">
+                        <h3>Nathalie Hagman <br> 
+                        <span class="mob-thin">Nykøbing Falster HK</span></h3>
+                        <p>”Iplay is the platform that we’ve <br> 
+                        previously lacked. It’s created for <br>
+                        us, the athletes, with our unique <br>
+                        needs in mind.”</p>
+                    </div><!-- mob-testamonials-textbox -->
             </div><!-- mob-testamonial -->
+            <img src="themes/wordplate/images/nathaliehagman.png" alt="nathalie hagman" class="mob-avatar avatar-left">            
         </div><!-- mob-row -->
 
         <div class="mob-row left">
             <div class="mob-testamonial cut-right">
-            <div class="mob-testamonials-textbox">
+            <div class="mob-testamonials-textbox padding-right">
                     <h3>Victor Tomás <br> 
                     <span class="mob-thin">FC BARCELONA</span></h3>
                     <p>“Iplay is a unique tool that will really <br>
                     make a difference for us athletes.”</p>
                 </div><!-- mob-testamonials-textbox -->
-            <img src="themes/wordplate/images/victorthomas.png" alt="victor thomas" class="mob-avatar">    
             </div><!-- mob-testamonial -->
+            <img src="themes/wordplate/images/victorthomas.png" alt="victor thomas" class="mob-avatar avatar-right">
         </div><!-- mob-row -->
 
         <div class="mob-row right">
             <div class="mob-testamonial cut-left">
-            <img src="themes/wordplate/images/nicklasekberg.png" alt="nicklas ekberg" class="mob-avatar">    
-                <div class="mob-testamonials-textbox">
+                <div class="mob-testamonials-textbox padding-left">
                     <h3>Niclas Ekberg <br> 
                     <span class="mob-thin">THW Kiel</span></h3>
                     <p>”With Iplay I have full control over <br>
@@ -139,12 +138,13 @@
                     my brand even stronger.”</p>
                 </div><!-- mob-testamonials-textbox -->    
             </div><!-- mob-testamonial -->
+            <img src="themes/wordplate/images/nicklasekberg.png" alt="nicklas ekberg" class="mob-avatar avatar-left">
         </div><!-- mob-row -->
 
         <div class="mob-backtotop">
             
             <img src="themes/wordplate/images/uparrow.png" alt="scroll-up arrow" class="mob-arrow-up">
-            <h4>Back to top</h4>
+            <h4><a href="#top">Back to top</a></h4>
 
         </div><!-- mob-backtotop -->
 
