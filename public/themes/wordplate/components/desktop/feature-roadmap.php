@@ -7,7 +7,7 @@
     <div class="roadmap-title">
         <h1>ROADMAP</h1>
         
-        <p>Donec facilisis tortor ut augue lacinia, at<br>
+        <p>Donec tjollahopp facilisis tortor ut augue lacinia, at<br>
         viverra est semper. Sed sapien metus,<br>
         scelerisque nec.</p>
     </div><!-- roadmap-title -->
