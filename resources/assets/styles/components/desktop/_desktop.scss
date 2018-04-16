@@ -9,7 +9,7 @@
 
 .desktop-placeholder {
   width: 100vw;
-  height: 75vh;
+  height: calc(100vh - 100px);
 }
 
 .desktop-whiteBgSquare {
@@ -23,15 +23,22 @@
 .desktoplogo {
   width: 180px;
   margin-left: 14.3vw;
-  margin-top: 32px;
 }
+
 .navbar {
     background-color: $IplayGrey;
     width: 100%;
-    height: 14vh;
+    height: 100px;
 }
 
-
+.iplay-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: $IplayGrey;
+  width: 100%;
+  height: 100px;
+}
 
 .navbar-nav ul li:hover ul li {
     display: block;
@@ -42,29 +49,34 @@
     justify-content: space-between;
     list-style-type: none;
     font-size: 24px;
-    padding: 10px;
-    margin-right: 40px;
 }
 
 .navbar-nav ul li {
-    width: 135px;
+  margin: 21px;
+  position: relative;
+  white-space: nowrap;
 }
 
 .navbar-nav ul li ul {
     flex-direction: column;
     background-color: $IplayGrey;
+    padding: 5px;
+    padding-top: 30px;
+    left: -10px;
     position: absolute;
     z-index: 2;
-    margin-left: -10px;
+    font-size: 20px;
+    border-radius: 3px;
 }
 
 .navbar-nav ul li ul li{
+  margin: 3px;
   display: none;
 }
 
 .menu-wrapper {
     display: flex;
-    float: right;
+    margin-right: 119px;
 }
 
 .title-app-container {
@@ -223,7 +235,6 @@
       font-size: 3.5vw;
     }
 }
-
 
 .desktopbuttons {
     width: 100%;

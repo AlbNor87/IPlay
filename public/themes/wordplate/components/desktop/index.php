@@ -1,7 +1,7 @@
 <!-- DESKTOP START-->
 <div class="desktop">
 
-    <div class="desktop-placeholder"></div>
+<div class="desktop-placeholder"></div>
 
 <div class="title-app-container">
     <div class="title">
@@ -140,6 +140,7 @@
 </div><!-- desktop-row -->
 
     <div class="desktopfooter">
+
         <div class="footertext">
             <img src="themes/wordplate/images/iplaylogo_white.svg" alt="wut" class="footerlogo">
             <p class="footerlinks">About Careers Press Contact Blog</p>

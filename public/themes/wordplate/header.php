@@ -13,21 +13,21 @@
 <!-- DESKTOP NAVBAR START-->
 <div class="desktop">
 
-  <nav class="navbar">
+  <nav class="iplay-nav">
 
-<img src="/themes/wordplate/images/iplaylogo_white.svg" alt="logo" class="desktoplogo">
+    <img src="/themes/wordplate/images/iplaylogo_white.svg" alt="logo" class="desktoplogo">
 
-      <div class="menu-wrapper">
+    <div class="menu-wrapper">
 
-        <ul class="navbar-nav">
+      <ul class="navbar-nav">
 
-          <?php wp_nav_menu(['theme_location' => 'primary-menu']); ?>
+        <?php wp_nav_menu(['theme_location' => 'primary-menu']); ?>
 
-        </ul><!-- /navbar -->
+      </ul><!-- navbar -->
 
-      </div><!-- menu-wrapper -->
+    </div><!-- menu-wrapper -->
 
-  </nav>
+  </nav><!-- navbar -->
 
 </div><!-- desktop -->
 <!-- DESKTOP NAVBAR END -->
