@@ -24,8 +24,6 @@
 
     <img src="themes/wordplate/images/mockup.png" alt="mockup" class="mockup">
 
-    <!-- <div class="desktop-whiteBgSquare"></div> -->
-
     <div class="boxes">
 
         <div class="other">

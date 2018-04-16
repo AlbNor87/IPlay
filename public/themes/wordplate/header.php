@@ -31,3 +31,18 @@
 
 </div><!-- desktop -->
 <!-- DESKTOP NAVBAR END -->
+
+<!-- MOBILE NAVBAR START-->
+<div class="mobile id="top"">
+
+    <div class="mob-nav">
+
+        <img src="/themes/wordplate/images/iplaylogo_white.svg" alt="logo" class="mob-logo">
+
+        <!-- Hamburger-Menu -->
+        <?php require template_path('components/mobile/mobile-menu.php');?>
+
+    </div><!-- mob-nav -->
+
+</div><!-- mobile -->
+<!-- MOBILE NAVBAR END -->

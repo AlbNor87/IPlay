@@ -1,15 +1,17 @@
-<!-- Can't put the navbar in header.php because it's not the same navbar for every page  -->
-
-<!-- MOBILE NAVBAR START-->
-<?php require template_path('components/mobile/mobile-menu-white.php');?>
-<!-- MOBILE NAVBAR END-->
-
 <!-- MOBILE START-->
 <div class="mobile">
 
     <div class="mob-container">
-    
-        <H1>Welcome to the MOBILE athletes page!</H1>
+
+        <div class="mob-row center">
+        <img src="/themes/wordplate/images/sports_green.svg" alt="roadMap" class="mob-sports">       
+        </div><!-- mob-row -->
+
+        <div class="mob-row center">
+        <img src="/themes/wordplate/images/connect_green.svg" alt="roadMap" class="mob-sports">       
+        </div><!-- mob-row -->
+
+        
 
     </div><!-- mob-container -->
 
