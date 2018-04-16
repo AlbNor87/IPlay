@@ -1,4 +1,5 @@
 .roadmap-container {
+  height: calc(100vh - 100px);
 
     h1 {
       font-size: 3.3vw;
@@ -19,4 +20,13 @@
   height: 66vh;
   margin-left: 14vw;
   margin-top: -1vh;
+}
+
+.roadmap-scroll {
+  width: 100%;
+  overflow: scroll;
+}
+
+.roadmap-title {
+  
 }
