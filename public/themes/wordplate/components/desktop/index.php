@@ -27,43 +27,61 @@
     <!-- <div class="desktop-whiteBgSquare"></div> -->
 
     <div class="boxes">
-        <div class="other">
-            <div class="othertext">
-                <h1>I'm _____</h1>
-                <p>Start building your <br>
-                    personal brand in the <br>
-                    digital world.</p>
-            </div>
-                <div class="boxbuttons">
-                    <div class="learnmorebutton1">Learn More</div>
-                    <div class="getstartedbutton1">Get Started</div>
-                </div>
-        </div>
 
+        <div class="other">
+            <div class="desktop-row center">
+                <h1>I’m an athlete</h1>
+            </div><!-- mob-row -->
+
+            <div class="desktop-row center">
+                <p>Start building your personal brand <br>
+                 in the digital world.</p>
+            </div><!-- mob-row -->
+
+            <div class="desktop-row center">
+                <div class="desktopbuttons">
+                    <div class="desktop-btn"><h3>Learn more</h3></div>
+                    <div class="desktop-btn"><h3>Get started</h3></div>
+                </div><!-- buttons -->
+            </div><!-- mob-row -->
+
+        </div>
         <div class="fan">
-            <div class="fantext">
-            <h1>I'm a fan</h1>
-            <p>Keep up to date <br>
-               with everything you love <br>
-               about sports.</p>
-            </div>
-            <div class="boxbuttons">
-                <div class="learnmorebutton2">Learn More</div>
-                <div class="getstartedbutton2">Get Started</div>
-            </div>
+            <div class="desktop-row center">
+                <h1>I’m an athlete</h1>
+            </div><!-- mob-row -->
+
+            <div class="desktop-row center">
+                <p>Start building your personal brand <br>
+                 in the digital world.</p>
+            </div><!-- mob-row -->
+
+            <div class="desktop-row center">
+                <div class="desktopbuttons">
+                    <div class="desktop-btn"><h3>Learn more</h3></div>
+                    <div class="desktop-btn"><h3>Get started</h3></div>
+                </div><!-- buttons -->
+            </div><!-- mob-row -->
+
         </div>
 
         <div class="athlete">
-            <div class="athletetext">
-                <h1>I'm an athlete</h1>
-                <p>Tell us your role <br>
-                   and we’ll tell you how <br>
-                   Iplay works for you.</p>
-            </div>
-        </div>
-        <div class="boxbuttons">
-            <div class="learnmorebutton3">Learn More</div>
-            <div class="getstartedbutton3">Get Started</div>
+            <div class="desktop-row center">
+                <h1>I’m an athlete</h1>
+            </div><!-- mob-row -->
+
+            <div class="desktop-row center">
+                <p>Start building your personal brand <br>
+                 in the digital world.</p>
+            </div><!-- mob-row -->
+
+            <div class="desktop-row center">
+                <div class="desktopbuttons">
+                    <div class="desktop-btn"><h3>Learn more</h3></div>
+                    <div class="desktop-btn"><h3>Get started</h3></div>
+                </div><!-- buttons -->
+            </div><!-- mob-row -->
+
         </div>
     </div> <!-- boxes -->
 
