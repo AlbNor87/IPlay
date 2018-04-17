@@ -220,6 +220,23 @@
     }
 }
 
+.desktopbuttons {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-left: 5%;
+  padding-right: 5%;
+  color: black;
+
+  h4 {
+      font-size: calc(1.2vh + 1.1vw);
+      font-style: italic;
+      text-align: center;
+      transform: skew(25deg);
+  }
+}
+
 .desktop-row {
     position: relative;
     width: 100%;
@@ -231,30 +248,21 @@
 
     p {
         font-weight: 300;
-        font-size: 3.5vh;
+        font-size: calc(1.5vh + 1.3vw);
         margin-top: -3vh;
+        font-style: italic;
     }
 
     h1 {
       margin-top: 38vh;
       font-size: 3.5vw;
     }
-}
-
-.desktopbuttons {
-    width: 100%;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    padding-left: 5%;
-    padding-right: 5%;
-    color: black;
 
     h3 {
-        font-size: 1.7vw;
-        font-style: italic;
-        text-align: center;
-        transform: skew(25deg);
+      font-weight: 300;
+      font-size: calc(1.2vh + 1.2vw);
+      margin-top: -3vh;
+      font-style: italic;
     }
 }
 
@@ -353,10 +361,12 @@
 }
 
 .superusers {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   height: 16vh;
   width: 75vh;
   background-color: $IplayGreen;
-  color: white;
   margin: auto;
   text-align: center;
   color: white;
@@ -368,74 +378,68 @@
   h1 {
     text-align: center;
     font-size: 5vw;
-    margin-top: 1.2vh;
   }
 }
 
 .testimonial1 {
-  height: calc(12vh + 12vw);
+  display: flex;
+  align-items: center;
+  height: 38vh;
   width: 75vw;
   float: right;
   background-color: $IplayGreen;
   text-align: center;
   color: white;
-  margin-bottom: 45px;
-  clip-path: polygon(10% 0, 100% 0%, 100% 100%, 0% 100%);
+  clip-path: polygon(13% 0, 100% 0%, 100% 100%, 0% 100%);
 }
 
 .testimonial2 {
-  height: calc(12vh + 12vw);
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  height: 38vh;
   width: 75vw;
   float: left;
   background-color: $IplayGreen;
   text-align: center;
   color: white;
-  margin-bottom: 45px;
-  clip-path: polygon(0 0, 90% 0%, 100% 100%, 0% 100%);
+  -webkit-clip-path: polygon(0 0, 87% 0, 100% 100%, 0% 100%);
+clip-path: polygon(0 0, 87% 0, 100% 100%, 0% 100%);
 }
 
 .testimonial3 {
-  height: calc(12vh + 12vw);
+  display: flex;
+  align-items: center;
+  height: 38vh;
   width: 75vw;
   float: right;
   background-color: $IplayGreen;
   text-align: center;
   color: white;
-  margin-bottom: 145px;
-  clip-path: polygon(10% 0, 100% 0%, 100% 100%, 0% 100%);
+  clip-path: polygon(13% 0, 100% 0%, 100% 100%, 0% 100%);
 }
 
-.testimonialimage1 {
+.testimonialimage1, .testimonialimage3, .testimonialimage2 {
   position: absolute;
-  width: calc(11vh + 11vw);
+  left: 25%;
+  top: 7%;
+  width: calc(16vh + 9vw);
   border-radius: 100%;
-  margin-left: -32.5vw;
-  margin-top: 1.3vh;;
+  border: 2px solid white;
 }
 
 .testimonialimage2 {
-  position: absolute;
-  width: calc(11vh + 11vw);
-  border-radius: 100%;
-  margin-left: 15.3vw;
-  margin-top: 1.3vh;
-}
-
-.testimonialimage3 {
-  position: absolute;
-  width: calc(11vh + 11vw);
-  border-radius: 100%;
-  margin-left: -32.5vw;
-  margin-top: 1.3vh;
+  left: 55%;
+  top: 7%;
 }
 
 .athletetext1 {
   text-align: left;
-  margin-left: 23vw;
+  margin-left: 21vw;
 }
 
 .athletename1 {
-  font-size: 3.5vh;
+  font-size: calc(1.5vh + 1.3vw);
 }
 
 .team1 {
@@ -469,7 +473,7 @@
 
 .athletetext3 {
   text-align: left;
-  margin-left: 23vw;
+  margin-left: 21vw;
 }
 
 .athletename3 {

@@ -38,13 +38,13 @@
 
                 <div class="desktop-row center">
                     <div class="desktopbuttons">
-                        <div class="desktop-btn"><h3>Learn more</h3></div>
+                        <div class="desktop-btn"><h4>Learn more</h4></div>
                     </div><!-- buttons -->
                 </div><!-- mob-row -->
 
                 <div class="desktop-row center">
                     <div class="desktopbuttons">
-                        <div class="desktop-btn"><h3>Get started</h3></div>
+                        <div class="desktop-btn"><h4>Get started</h4></div>
                     </div><!-- buttons -->
                 </div><!-- mob-row -->
 
@@ -62,13 +62,13 @@
 
                 <div class="desktop-row center">
                     <div class="desktopbuttons">
-                        <div class="desktop-btn"><h3>Learn more</h3></div>
+                        <div class="desktop-btn"><h4>Learn more</h4></div>
                     </div><!-- buttons -->
                 </div><!-- mob-row -->
 
                 <div class="desktop-row center">
                     <div class="desktopbuttons">
-                        <div class="desktop-btn"><h3>Get started</h3></div>
+                        <div class="desktop-btn"><h4>Get started</h4></div>
                     </div><!-- buttons -->
                 </div><!-- mob-row -->
 
@@ -86,13 +86,13 @@
 
                 <div class="desktop-row center">
                     <div class="desktopbuttons">
-                        <div class="desktop-btn"><h3>Learn more</h3></div>
+                        <div class="desktop-btn"><h4>Learn more</h4></div>
                     </div><!-- buttons -->
                 </div><!-- mob-row -->
 
                 <div class="desktop-row center">
                     <div class="desktopbuttons">
-                        <div class="desktop-btn"><h3>Get started</h3></div>
+                        <div class="desktop-btn"><h4>Get started</h4></div>
                     </div><!-- buttons -->
                 </div><!-- mob-row -->
 
@@ -105,38 +105,46 @@
 
         <div class="desktop-row right">
             <div class="testimonial1">
-                <img src="themes/wordplate/images/nathaliehagman.png" alt="" class="testimonialimage1">
                 <div class="athletetext1">
                     <h2 class="athletename1">Nathalie Hagman</h2>
-                    <p class="team1">Nykøbing Falster HK</p>
+                    <h3 class="team1">Nykøbing Falster HK</h3>
                     <br>
-                    <p class="quote1">"Iplay är den plattform som vi tidigare har saknat.<br> Skapad för oss atleter med våra unika behov."</p>
-                </div>
-            </div>
+                    <p class="quote1">"Iplay är den plattform som vi tidigare<br>
+                     har saknat. Skapad för oss atleter med<br>
+                      våra unika behov."</p>
+                </div><!-- athletename1 -->
+            </div><!-- testimonial1 -->
+            <img src="themes/wordplate/images/nathaliehagman.png" alt="" class="testimonialimage1">
         </div><!-- desktop-row -->
 
     <div class="desktop-row left">
         <div class="testimonial2">
-            <img src="themes/wordplate/images/victorthomas.png" alt="" class="testimonialimage2">
             <div class="athletetext2">
                 <h2 class="athletename2">Victor Tomás</h2>
-                <p class="team2">FC BARCELONA</p>
+                <h3 class="team2">FC BARCELONA</h3>
                 <br>
-                <p class="quote2">"Iplay is a unique tool that will really<br> make a difference for us athletes."</p>
+                <p class="quote2">"Iplay is a unique tool that will <br>
+                really make a difference for us<br>
+                athletes."</p>
             </div>
         </div>
+        <img src="themes/wordplate/images/victorthomas.png" alt="" class="testimonialimage2">
     </div><!-- desktop-row -->
 
     <div class="desktop-row right">
         <div class="testimonial3">
-            <img src="themes/wordplate/images/nicklasekberg.png" alt="" class="testimonialimage3">
+           
             <div class="athletetext3">
                 <h2 class="athletename3">Nicklas Ekberg</h2>
-                <p class="team3">THW Kiel</p>
+                <h3 class="team3">THW Kiel</h3>
                 <br>
-                <p class="quote3">"På Iplay har jag full kontroll över min kommunikation och kan bygga mitt varumärke ännu starkare"</p>
+                <p class="quote3">"På Iplay har jag full kontroll över <br>
+                min kommunikation och kan <br>
+                bygga mitt varumärke ännu <br>
+                starkare"</p>
             </div>
         </div>
+        <img src="themes/wordplate/images/nicklasekberg.png" alt="" class="testimonialimage3">
     </div><!-- desktop-row -->      
 
 </div><!-- desktop -->
