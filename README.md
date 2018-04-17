@@ -14,7 +14,7 @@ This project was built using WordPlate which is a modern WordPress stack built w
 https://wordplate.github.io/docs/introduction
 
 ### Side note:
-For this project to work as intended you need to create the following pages in your wordpress backoffice:
+For this project to work as intended you need to create pages named the following in your wordpress backoffice:
 - About
 - Athletes
 - Fans
