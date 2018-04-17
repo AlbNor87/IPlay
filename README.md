@@ -1,7 +1,9 @@
 # WEB DEVELEOPMENT ASSIGNMENT - IPLAY
-### YRGO Göteborg
 
 <img src="https://media.giphy.com/media/np3C1COrXYqzK/giphy.gif" alt="Webbutvecklare" width="100%">
+
+> If you for some reason do not recognize the guys in the gif you should really watch this video by Lonely Island because it is hilarious... Mm yes...
+https://www.youtube.com/watch?v=CEVdca9U9LM
 
 ## Assignment:
 Improve and redesign http://www.iplay.global/
