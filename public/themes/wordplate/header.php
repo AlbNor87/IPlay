@@ -9,7 +9,7 @@
   <?php wp_head(); ?>
 </head>
 <body <?php body_class(); ?>>
-
+<?php require template_path('components/menu-logic.php');?>
 <!-- DESKTOP NAVBAR START-->
 <div class="desktop">
 

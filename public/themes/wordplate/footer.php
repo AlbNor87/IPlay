@@ -1,8 +1,14 @@
 <?php wp_footer(); ?>
 
+<!-- DESKTOP FOOTER START-->
+<div class="desktop">
+    <?php require template_path('components/desktop/footer.php');?>
+</div><!-- mobile -->
+<!-- DESKTOP FOOTER END-->
+
 <!-- MOBILE FOOTER START-->
 <div class="mobile">
-<?php require template_path('components/mobile/footer.php');?>
+    <?php require template_path('components/mobile/footer.php');?>
 </div><!-- mobile -->
 <!-- MOBILE FOOTER END-->
 

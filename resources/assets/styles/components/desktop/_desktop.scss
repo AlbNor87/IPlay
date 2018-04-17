@@ -86,7 +86,6 @@
 .title {
   font-size: calc(2.5vh + 2.8vw);
   font-weight: bold;
-  // line-height: 69px;
   color: $IplayGreen;
   line-height: 5px;
   margin-top: 22vh;
@@ -482,52 +481,8 @@
   margin-top: -1vh;
 }
 
-.desktopfooter {
-  width: 100%;
-  background-color:$IplayFooterGrey;
-}
-
-.footertext {
-  color: white;
-  margin-left: 25vh;
-  padding: 50px;
-}
-
-.footerlinks {
-  font-size: 2vw;
-  padding: 5px;
-}
-
-.footerphoneaddress {
-  font-size: 2vw;
-  line-height: 53px;
-  margin-top: 60px;
-}
-
-.footercopyright {
-  font-size: 1.5vw;
-  font-weight: 300;
-}
-
-.footerlogo {
-  width: 20vh;
-}
-
 .desktop-row {
   display: flex;
   width: 100%;
-}
-
-.footerprenumera {
-  position: absolute;
-  margin-left: 44vw;
-  margin-top: -41vh;
-  font-size: 3.5vh;
-}
-
-.footeremail {
-  position: absolute;
-  margin-left: 44vw;
-  margin-top: -25vh;
-  font-size: 3.5vh;
-}
+  }
+  

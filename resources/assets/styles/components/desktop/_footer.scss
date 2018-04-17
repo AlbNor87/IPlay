@@ -1,0 +1,80 @@
+.desktopfooter {
+    display: flex;
+    width: 100%;
+    height: 471px;
+    background-color:$IplayFooterGrey;
+}
+  
+.footertext {
+color: white;
+margin-left: 25vh;
+padding: 50px;
+}
+
+.footerlinks {
+font-size: 2vw;
+padding: 5px;
+}
+
+.footerphoneaddress {
+font-size: 26px;
+margin-top: 80px;
+margin-bottom: 10px;
+}
+
+.footercopyright {
+font-size: 26px;
+white-space: nowrap;
+font-weight: 300;
+}
+
+.footerlogo {
+width: 20vh;
+}
+
+.footerprenumera {
+position: absolute;
+margin-left: 44vw;
+margin-top: -41vh;
+font-size: 3.5vh;
+}
+
+.footeremail {
+position: absolute;
+margin-left: 44vw;
+margin-top: -25vh;
+font-size: 3.5vh;
+}
+
+
+.footer-left {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 50%;
+    height: 100%;
+    color: white;
+    padding-top: 80px;
+    padding-left: 10vw;
+    padding-right: 0;
+}
+
+.footer-right {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    width: 50%;
+    height: 100%;
+    color: white;
+    padding: 8vw;
+}
+
+.links-footer {
+    display: flex;
+    margin-top: 40px;
+    white-space: nowrap;
+    a {
+        margin-right: 20px;
+        font-size: 26px;
+    }
+}

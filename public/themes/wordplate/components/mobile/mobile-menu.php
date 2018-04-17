@@ -1,4 +1,4 @@
-<?php require template_path('components/menu-logic.php');?>
+<!-- //här -->
 
 <div class="mobile-menu-container">
 
