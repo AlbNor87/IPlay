@@ -4,7 +4,7 @@
     <div class="fans-container">
 
     <h1>Features For Fans</h1>
-    <div class="fans-row">
+    <div class="desk-row">
         <div class="desk-content">
             <img src="/themes/wordplate/images/sports_green.svg" alt="sports" class="fan-img-sport">       
             <h3>MULTITUDE OF SPORTS</h3>
@@ -21,7 +21,7 @@
         </div><!-- desk-content -->
     </div><!-- fans-row -->
 
-    <div class="fans-row">
+    <div class="desk-row">
         <div class="desk-content">
             <img src="/themes/wordplate/images/connect_green.svg" alt="sports" class="fan-img-connect">       
             <h3>CONNECT WITH YOUR COLLEAGUES</h3>

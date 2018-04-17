@@ -1,41 +1,93 @@
 <!-- DESKTOP START-->
 <div class="desktop">
+        
+    <div class="team-row left">
+    <H1>THE TEAM</H1>
+    </div><!-- desk-row -->
 
-        <H1>THE TEAM</H1>
+    <div class="desk-row center">
 
-        <div class="imageboxes">
+        <div class="employee-container">
+            <div class="white-bg">
+            <img src="/themes/wordplate/images/robert.png" alt="employee" class="img-employee">
+            <h2>Robert Arrhenius</h2>
+            <h3>Manager Players Council</h3>
+            </div><!-- white-bg -->
+        </div><!-- employee-container -->
 
-            <div class="image1">
-                <div class="image-row center">
-                    <div class="picture1"></div>
-                </div><!-- mob-row -->
+        <div class="employee-container">
+            <div class="white-bg">
+            <img src="/themes/wordplate/images/robert.png" alt="employee" class="img-employee">
+            <h2>Robert Arrhenius</h2>
+            <h3>Manager Players Council</h3>
+            </div><!-- white-bg -->
+        </div><!-- employee-container -->
 
-                <div class="image-row center">
-                    <p>Start building your personal brand <br>
-                     in the digital world.</p>
-                </div>
-            </div>
+        <div class="employee-container">
+            <div class="white-bg">
+            <img src="/themes/wordplate/images/robert.png" alt="employee" class="img-employee">
+            <h2>Robert Arrhenius</h2>
+            <h3>Manager Players Council</h3>
+            </div><!-- white-bg -->
+        </div><!-- employee-container -->
 
-            <div class="image2">
-                <div class="image-row center"></div>
+    </div><!-- desk-row -->
 
-                <div class="image-row center">
-                    <p>Start building your personal brand <br>
-                     in the digital world.</p>
-                </div><!-- mob-row -->
-            </div>
+    <div class="desk-row center">
 
-            <div class="image3">
-                <div class="image-row center"></div>
+        <div class="employee-container">
+            <div class="white-bg">
+            <img src="/themes/wordplate/images/robert.png" alt="employee" class="img-employee">
+            <h2>Robert Arrhenius</h2>
+            <h3>Manager Players Council</h3>
+            </div><!-- white-bg -->
+        </div><!-- employee-container -->
 
-                <div class="image-row center">
-                    <p>Start building your personal brand <br>
-                     in the digital world.</p>
-                </div><!-- mob-row -->
-            </div>
-        </div> <!-- boxes -->
+        <div class="employee-container">
+            <div class="white-bg">
+            <img src="/themes/wordplate/images/robert.png" alt="employee" class="img-employee">
+            <h2>Robert Arrhenius</h2>
+            <h3>Manager Players Council</h3>
+            </div><!-- white-bg -->
+        </div><!-- employee-container -->
 
+        <div class="employee-container">
+            <div class="white-bg">
+            <img src="/themes/wordplate/images/robert.png" alt="employee" class="img-employee">
+            <h2>Robert Arrhenius</h2>
+            <h3>Manager Players Council</h3>
+            </div><!-- white-bg -->
+        </div><!-- employee-container -->
 
+    </div><!-- desk-row -->
+
+    <div class="desk-row center">
+
+        <div class="employee-container">
+            <div class="white-bg">
+            <img src="/themes/wordplate/images/robert.png" alt="employee" class="img-employee">
+            <h2>Robert Arrhenius</h2>
+            <h3>Manager Players Council</h3>
+            </div><!-- white-bg -->
+        </div><!-- employee-container -->
+
+        <div class="employee-container">
+            <div class="white-bg">
+            <img src="/themes/wordplate/images/robert.png" alt="employee" class="img-employee">
+            <h2>Robert Arrhenius</h2>
+            <h3>Manager Players Council</h3>
+            </div><!-- white-bg -->
+        </div><!-- employee-container -->
+
+        <div class="employee-container">
+            <div class="white-bg">
+            <img src="/themes/wordplate/images/robert.png" alt="employee" class="img-employee">
+            <h2>Robert Arrhenius</h2>
+            <h3>Manager Players Council</h3>
+            </div><!-- white-bg -->
+        </div><!-- employee-container -->
+
+    </div><!-- desk-row -->
 
 </div><!-- desktop -->
 <!-- DESKTOP END -->

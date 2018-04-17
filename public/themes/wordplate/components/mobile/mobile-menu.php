@@ -12,7 +12,7 @@
         
         <ul class="mobile-menu">
             <a href="<?php echo get_home_url(); ?>"><li>Home</li></a>
-            <li class="accordion">Features</li>
+            <li class="accordion">Features<img src="/themes/wordplate/images/downarrow.png" alt="scroll-down arrow" class="mob-arrow-down-menu"></li>
             <div class="panel">
             <ul>
                 <li><a href="<?php echo get_page_link($athletesLink); ?>">Atheletes</a></li>
