@@ -103,7 +103,7 @@
             <h1>Superusers</h1>
         </div>
 
-        <div class="desktop-row right">
+        <div class="desktop-row right extra-top-margin">
             <div class="testimonial1">
                 <div class="athletetext1">
                     <h2 class="athletename1">Nathalie Hagman</h2>
@@ -117,7 +117,7 @@
             <img src="themes/wordplate/images/nathaliehagman.png" alt="" class="testimonialimage1">
         </div><!-- desktop-row -->
 
-    <div class="desktop-row left">
+    <div class="desktop-row left extra-top-margin">
         <div class="testimonial2">
             <div class="athletetext2">
                 <h2 class="athletename2">Victor Tomás</h2>
@@ -131,7 +131,7 @@
         <img src="themes/wordplate/images/victorthomas.png" alt="" class="testimonialimage2">
     </div><!-- desktop-row -->
 
-    <div class="desktop-row right">
+    <div class="desktop-row right extra-top-margin">
         <div class="testimonial3">
            
             <div class="athletetext3">
