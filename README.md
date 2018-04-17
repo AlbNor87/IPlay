@@ -28,3 +28,5 @@ _Viktor Lassing (Digital Designer)_
 _William Martinsson (Digital Designer)_
 _Linn Tunberg (Web Developer)_
 _Albert Norberg (Web Developer)_
+
+_YRGO, GÖTEBORG 2018_
