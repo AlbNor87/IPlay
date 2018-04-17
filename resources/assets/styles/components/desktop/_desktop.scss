@@ -207,11 +207,17 @@
 }
 
 .desktop-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     background-color: white;
     width: 18vw;
     height: 9vh;
     transform: skew(-25deg);
     box-shadow: -15px 15px black;
+    h3 {
+      margin: 0;
+    }
 }
 
 .desktop-row {
@@ -249,7 +255,6 @@
         font-style: italic;
         text-align: center;
         transform: skew(25deg);
-        margin-top: 1vw;
     }
 }
 
