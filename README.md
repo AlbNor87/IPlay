@@ -23,10 +23,10 @@ For this project to work as intended you need to create the following pages in y
 - Contact
 
 ## Creators:
+--
+- _Viktor Lassing (Digital Designer)_
+- _William Martinsson (Digital Designer)_
+- _Linn Tunberg (Web Developer)_
+- _Albert Norberg (Web Developer)_
 ---
-_Viktor Lassing (Digital Designer)_
-_William Martinsson (Digital Designer)_
-_Linn Tunberg (Web Developer)_
-_Albert Norberg (Web Developer)_
-
 _YRGO, GÖTEBORG 2018_
