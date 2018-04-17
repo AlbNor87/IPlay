@@ -2,14 +2,13 @@
 <div class="desktop">
 
     <div class="roadmap-container">
-
-    <div class="row"></div>
+        
     <div class="roadmap-title">
         <h1>ROADMAP</h1>
         
-        <p>Donec tjollahopp facilisis tortor ut augue lacinia, at<br>
-        viverra est semper. Sed sapien metus,<br>
-        scelerisque nec.</p>
+        <!-- <p>Donec tjollahopp facilisis tortor ut augue lacinia, at<br>
+        viverra est semper. Sed sapien metus,
+        scelerisque nec.</p> -->
     </div><!-- roadmap-title -->
 
     <div class="roadmap-scroll">
