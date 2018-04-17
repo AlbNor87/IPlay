@@ -23,7 +23,6 @@ For this project to work as intended you need to create the following pages in y
 - Contact
 
 ## Creators:
---
 - _Viktor Lassing (Digital Designer)_
 - _William Martinsson (Digital Designer)_
 - _Linn Tunberg (Web Developer)_
