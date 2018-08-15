@@ -64,5 +64,6 @@ foreach($pages_info as $page)
         $aboutUsLink = $page->getId();
     }
 }
+// dd($pages_info);
 
 ?>

@@ -15,7 +15,7 @@
 
   <nav class="iplay-nav">
 
-    <img src="/themes/wordplate/images/iplaylogo_white.svg" alt="logo" class="desktoplogo">
+    <img src="/themes/wordplate/images/Iplaylogo_white.svg" alt="logo" class="desktoplogo">
 
     <div class="menu-wrapper">
 
@@ -37,7 +37,7 @@
 
     <div class="mob-nav">
 
-        <img src="/themes/wordplate/images/iplaylogo_white.svg" alt="logo" class="mob-logo">
+        <img src="/themes/wordplate/images/Iplaylogo_white.svg" alt="logo" class="mob-logo">
 
         <!-- Hamburger-Menu -->
         <?php require template_path('components/mobile/mobile-menu.php');?>

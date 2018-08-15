@@ -1,7 +1,7 @@
 <div class="desktopfooter">
 
     <div class="footer-left">
-        <img src="/themes/wordplate/images/iplaylogo_white.svg" alt="wut" class="footerlogo">   
+        <img src="/themes/wordplate/images/Iplaylogo_white.svg" alt="wut" class="footerlogo">   
         <div class="links-footer">
             <a href="<?php echo get_page_link($aboutUsLink); ?>">About Us</a>
             <a href="<?php echo get_home_url(); ?>">Careers</a>
