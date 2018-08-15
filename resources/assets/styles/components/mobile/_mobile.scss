@@ -1,0 +1,132 @@
+.mobile {
+    display: none;
+    
+    @include bp(small) {
+        display: block;
+    }
+}
+
+.mob-nav {
+    width: 100vw;
+    height: 55px;
+    background-color: $IplayGrey;
+}
+
+.mob-logo {
+    position: absolute;
+    width: 90px;
+    top: 10px;
+    left: 24px;
+}
+
+.mob-roadMap {
+    padding: 6%;
+    width: 100%;
+}
+
+.mob-title {
+    margin-top: 50px;
+    margin-bottom: 20px;
+    color: black;
+    font-size: 28px;
+}
+
+.mob-content {
+    margin-top: 30px; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: black;
+    h3 {
+        font-size: 16px;
+    }
+    p {
+        padding-left: 20px;
+        padding-right: 20px;
+        font-size: 16px;
+        font-weight: 300px;
+    }
+}
+
+.mob-img {
+    width: 75%;
+}
+
+.mob-footer {
+    display: flex;
+    background-color: $IplayFooterGrey;
+    flex-direction: column;
+    width: 100%;
+    height: 514px;
+    h4 {
+        margin: 1%;
+        font-weight: 500;
+    }
+}
+
+.mob-footer-logo {
+    margin: 50px;
+    margin-left: 10%;
+    width: 150px;
+    height: 50px;
+}
+
+.mob-social-icons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+    width: 75%;
+    margin-top: 30px;
+}
+
+.mob-icon {
+    margin: 2px;
+    width: 55px;
+}
+
+.mob-email {
+    margin-top: 30px;
+    display: flex;
+    width: 75%;
+    height: 50px;
+
+    .mob-mail-btn {
+        background-color: $IplayGreen;
+        background-image: url("/themes/wordplate/images/right-arrow.svg");
+        background-size: 60%;
+        background-position: center;
+        width: 55px;
+        height: 100%;
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
+        border: 0;
+    }
+
+    input[type=text], textarea {
+        width: 90%;
+        height: 100%;
+        padding: 10px;
+        margin: 0;
+        display: inline-block;
+        border: 0;
+        border-top-left-radius: 5px;
+        border-bottom-left-radius: 5px;
+        background-color: white;
+        font-size: 22px;
+        font-weight: bold;
+        color: black;
+    }
+}
+
+.mob-copyright {
+    text-align: center;
+    color: white;
+    margin-top: 35px; 
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.mob-roadmap-title {
+    font-size: 36px;
+}
