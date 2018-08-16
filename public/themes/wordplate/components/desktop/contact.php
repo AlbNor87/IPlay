@@ -2,11 +2,14 @@
 <div class="desktop">
         
         <div class="desk-row center">
-                <H1>Tel:+46 725 455 900</H1>
+
+                <div class="desk-col min-height40vh">
+                <h1>Contact</h1>
+                <H3>Tel:+46 725 455 900</H3>
+                <H3>Email:info@iplay.global</H3>
+                </div>
                 
-        </div>
-        <div class="desk-row center">
-                <H1>Email:info@iplay.global</H1>
+
         </div>
 
 </div><!-- desktop -->

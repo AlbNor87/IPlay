@@ -18,8 +18,7 @@
 
     <div class="footer-right">
 
-        <h3>Prenumera på nyhetsbrevet för<br>
-        nyheter!</h3>
+        <h3>Prenumera på nyhetsbrevet för nyheter!</h3>
 
         <div class="mob-row right">
             <div class="mob-email">

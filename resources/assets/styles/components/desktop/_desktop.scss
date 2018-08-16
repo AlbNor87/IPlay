@@ -45,10 +45,10 @@
 }
 
 .navbar-nav ul {
-    display: flex;
-    justify-content: space-between;
-    list-style-type: none;
-    font-size: 24px;
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  font-size: 24px;
 }
 
 .navbar-nav ul li {
@@ -58,15 +58,15 @@
 }
 
 .navbar-nav ul li ul {
-    flex-direction: column;
-    background-color: $IplayGrey;
-    padding: 5px;
-    padding-top: 30px;
-    left: -10px;
-    position: absolute;
-    z-index: 2;
-    font-size: 20px;
-    border-radius: 3px;
+  flex-direction: column;
+  background-color: $IplayGrey;
+  padding: 5px;
+  padding-top: 28px;
+  left: -10px;
+  position: absolute;
+  z-index: 2;
+  font-size: 20px;
+  border-radius: 3px;
 }
 
 .navbar-nav ul li ul li{
@@ -75,8 +75,8 @@
 }
 
 .menu-wrapper {
-    display: flex;
-    margin-right: 119px;
+  display: flex;
+  margin-right: 14.3vw;
 }
 
 .title-app-container {
@@ -403,7 +403,7 @@
   text-align: center;
   color: white;
   -webkit-clip-path: polygon(0 0, 87% 0, 100% 100%, 0% 100%);
-clip-path: polygon(0 0, 87% 0, 100% 100%, 0% 100%);
+  clip-path: polygon(0 0, 87% 0, 100% 100%, 0% 100%);
 }
 
 .testimonial3 {

@@ -9,53 +9,25 @@
 
         <div class="employee-container">
             <div class="white-bg">
-            <img src="/themes/wordplate/images/robert.png" alt="employee" class="img-employee">
-            <h2>Robert Arrhenius</h2>
-            <h3>Manager Players Council</h3>
+            <img src="/themes/wordplate/images/staff.jpg" alt="employee" class="img-employee">
+            <h2>Staff member</h2>
+            <h3>Role</h3>
             </div><!-- white-bg -->
         </div><!-- employee-container -->
 
         <div class="employee-container">
             <div class="white-bg">
-            <img src="/themes/wordplate/images/robert.png" alt="employee" class="img-employee">
-            <h2>Robert Arrhenius</h2>
-            <h3>Manager Players Council</h3>
+            <img src="/themes/wordplate/images/staff.jpg" alt="employee" class="img-employee">
+            <h2>Staff member</h2>
+            <h3>Role</h3>
             </div><!-- white-bg -->
         </div><!-- employee-container -->
 
         <div class="employee-container">
             <div class="white-bg">
-            <img src="/themes/wordplate/images/robert.png" alt="employee" class="img-employee">
-            <h2>Robert Arrhenius</h2>
-            <h3>Manager Players Council</h3>
-            </div><!-- white-bg -->
-        </div><!-- employee-container -->
-
-    </div><!-- desk-row -->
-
-    <div class="desk-row center">
-
-        <div class="employee-container">
-            <div class="white-bg">
-            <img src="/themes/wordplate/images/robert.png" alt="employee" class="img-employee">
-            <h2>Robert Arrhenius</h2>
-            <h3>Manager Players Council</h3>
-            </div><!-- white-bg -->
-        </div><!-- employee-container -->
-
-        <div class="employee-container">
-            <div class="white-bg">
-            <img src="/themes/wordplate/images/robert.png" alt="employee" class="img-employee">
-            <h2>Robert Arrhenius</h2>
-            <h3>Manager Players Council</h3>
-            </div><!-- white-bg -->
-        </div><!-- employee-container -->
-
-        <div class="employee-container">
-            <div class="white-bg">
-            <img src="/themes/wordplate/images/robert.png" alt="employee" class="img-employee">
-            <h2>Robert Arrhenius</h2>
-            <h3>Manager Players Council</h3>
+            <img src="/themes/wordplate/images/staff.jpg" alt="employee" class="img-employee">
+            <h2>Staff member</h2>
+            <h3>Role</h3>
             </div><!-- white-bg -->
         </div><!-- employee-container -->
 
@@ -65,25 +37,53 @@
 
         <div class="employee-container">
             <div class="white-bg">
-            <img src="/themes/wordplate/images/robert.png" alt="employee" class="img-employee">
-            <h2>Robert Arrhenius</h2>
-            <h3>Manager Players Council</h3>
+            <img src="/themes/wordplate/images/staff.jpg" alt="employee" class="img-employee">
+            <h2>Staff member</h2>
+            <h3>Role</h3>
             </div><!-- white-bg -->
         </div><!-- employee-container -->
 
         <div class="employee-container">
             <div class="white-bg">
-            <img src="/themes/wordplate/images/robert.png" alt="employee" class="img-employee">
-            <h2>Robert Arrhenius</h2>
-            <h3>Manager Players Council</h3>
+            <img src="/themes/wordplate/images/staff.jpg" alt="employee" class="img-employee">
+            <h2>Staff member</h2>
+            <h3>Role</h3>
             </div><!-- white-bg -->
         </div><!-- employee-container -->
 
         <div class="employee-container">
             <div class="white-bg">
-            <img src="/themes/wordplate/images/robert.png" alt="employee" class="img-employee">
-            <h2>Robert Arrhenius</h2>
-            <h3>Manager Players Council</h3>
+            <img src="/themes/wordplate/images/staff.jpg" alt="employee" class="img-employee">
+            <h2>Staff member</h2>
+            <h3>Role</h3>
+            </div><!-- white-bg -->
+        </div><!-- employee-container -->
+
+    </div><!-- desk-row -->
+
+    <div class="desk-row center">
+
+        <div class="employee-container">
+            <div class="white-bg">
+            <img src="/themes/wordplate/images/staff.jpg" alt="employee" class="img-employee">
+            <h2>Staff member</h2>
+            <h3>Role</h3>
+            </div><!-- white-bg -->
+        </div><!-- employee-container -->
+
+        <div class="employee-container">
+            <div class="white-bg">
+            <img src="/themes/wordplate/images/staff.jpg" alt="employee" class="img-employee">
+            <h2>Staff member</h2>
+            <h3>Role</h3>
+            </div><!-- white-bg -->
+        </div><!-- employee-container -->
+
+        <div class="employee-container">
+            <div class="white-bg">
+            <img src="/themes/wordplate/images/staff.jpg" alt="employee" class="img-employee">
+            <h2>Staff member</h2>
+            <h3>Role</h3>
             </div><!-- white-bg -->
         </div><!-- employee-container -->
 
