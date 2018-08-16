@@ -12,9 +12,7 @@
                 OF SPORT</h1>
             
             <div class="mob-tagLine">
-                <p>Iplay is the tool for athletes to <br>
-                grow their personal brand and <br>
-                for fans following their journey.</p>
+                <p>Iplay is the tool for athletes to grow their personal brand and for fans following their journey.</p>
             </div>
 
             <img src="themes/wordplate/images/appstoreblack.svg" alt="appstore" class="mob-appstore">
